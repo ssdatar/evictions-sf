@@ -40,6 +40,7 @@ $(document).ready(function() {
 				//Get GeoJSON of all points within one-mile radius
 				var evictionPts = toGeoJSON(pointsToPlot(userLat, userLong));
 
+				//show eviction numbers.
 				var text = evictionNum + ' renters have been asked to leave their homes within a 1-mile radius around you, since 2011.';
 				
 				$('#eviction-count').text(text);
