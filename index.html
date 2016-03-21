@@ -1,0 +1,55 @@
+<html>
+    <head>
+    	<script src="data.js"></script>
+    	<!--Leaflet styles and script-->
+    	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+
+        <!--Bootstrap stylesheet-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+        <!--Main stylesheet-->
+        <link rel="stylesheet" href="styles.css" />
+
+         <!--Google font Lato-->
+        <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    	
+		<!--jQuery and Google Street View API scripts-->
+    	<script src="https://code.jquery.com/jquery-1.12.2.min.js" integrity="sha256-lZFHibXzMHo3GGeehn1hudTAP3Sc0uKXBXAzHX1sjtk=" crossorigin="anonymous"></script>
+    	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRUl9VBYskltbiLUIKdyHB8n9n5m9Jzcg"></script>   	
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="page-header">
+                <h1 id="title">How many evictions near you?</h1>
+            </div>            
+            <div class="row">
+            	<div class=".col-md-6 .col-md-offset-3">
+                    <h4> Enter your street address, location, or landmark in San Francisco and see how many people have been served eviction notices near you. You can
+                    click on the dot to see a Street View of the building. </h4>
+
+                    <h4> E.g Runway Incubator, Bernal Heights, 1355 Market Street, San Francisco </h4>
+
+                    <form id="user-location">
+                        <input type="text" id="location-input" placeholder="Enter a location in SF"/>
+                        <input type="submit" value="Show evictions">
+                    </form>
+                    <div class="error-message">
+                        <p class="message" id="user-error"></p>
+                    </div>
+
+                    <div class="eviction-message">
+                        <h3 class="eviction-message" id="eviction-count"></h3>
+                    </div>
+                </div>
+            </div>
+
+        	<div class="row">
+                <div id="map"></div>
+            	<div id="pano"></div>
+            </div>
+        	<script src="script.js"></script>
+        </div>
+    </body>
+</html>

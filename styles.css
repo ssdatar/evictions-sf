@@ -1,0 +1,48 @@
+body {
+	font-family: 'Lato', helvetica, sans-serif;
+}
+
+#title {
+	text-align: center;
+}
+
+input {
+	display: inline-block;
+	padding: .6em;
+	margin: 0 auto;
+}
+
+#map {
+	height: 100%;
+	width: 100%;
+	position: relative;
+	float: left;
+}
+
+#pano {
+	width: 30%;
+	height: 50%;
+	position: absolute;
+	float: right;
+}
+
+#user-location {
+	padding-top: 10vh;
+}
+
+.error-message, h4 {
+	text-align: center;
+}
+
+.eviction-message {
+	text-align: center;
+	padding: 0.2em;
+}
+
+
+#location-input {
+	width: 30vw;
+	min-width: 350px;
+	margin-left: 25vw;
+}
+
