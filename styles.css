@@ -1,33 +1,60 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 body {
 	font-family: 'Lato', helvetica, sans-serif;
+	margin: 40px auto;
 }
+
 
 #title {
 	text-align: center;
 }
 
+.text {
+	padding: 3em;
+	max-width: 970px;
+	margin: 0 auto;
+}
+
 input {
 	display: inline-block;
 	padding: .6em;
-	margin: 0 auto;
+}
+
+#stats-panel {
+	width: 35%;
+	display: inline-block;
+}
+
+div.summary {
+	margin-bottom: 4em;
+}
+
+p.big {
+	font-size: 5em;
+	font-weight: 700;
+	line-height: 0.8em;
+	color: #333333;
+}
+
+p.subhead {
+	font-size: 1.5em;
 }
 
 #map {
 	height: 100%;
-	width: 100%;
+	width: 60%;
 	position: relative;
-	float: left;
-}
-
-#pano {
-	width: 30%;
-	height: 50%;
-	position: absolute;
 	float: right;
 }
 
 #user-location {
 	padding-top: 10vh;
+	text-align: center;
 }
 
 .error-message, h4 {
@@ -43,6 +70,84 @@ input {
 #location-input {
 	width: 30vw;
 	min-width: 350px;
-	margin-left: 25vw;
+}
+
+/*#graph-wrapper {
+	position: relative;
+	width: 80%;
+	height: 100%;
+	overflow: hidden;
+	margin-top: 1em;
+}*/
+
+.graph {
+	float: left;
+	width: 49%;
+	height: 400px;
+	display: inline-block;
+}
+
+#total-graph, #trend-graph {
+	/*display: inline-block;*/
+	border: 1px solid #d3d3d3;
+	/*position: absolute;*/
+	/*margin-top: 2em;*/
+}
+
+#total-graph {
+	float: left;
+}
+
+#trend-graph {
+	float: right;
+}
+
+#total-num {
+	color: #750000;
+}
+
+#highest-num {
+	color: cadetblue;
+}
+
+#nbd {
+	margin: 0 0 0.8em 0;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+	fill: #ff6666;
+}
+
+text.label {
+	font-size: 1.2em;
+}
+
+@media only screen and (max-width: 768px) {
+	.graph {
+		clear: both;
+		width: 100%
+	}
+}
+
+
+@media only screen and (max-width: 480px) {
+	#location-input {
+		width: 15vw;
+		height: 15vw;
+		margin-bottom: 1.2em;
+		margin-right: 1em;
+	}
+
+	#button {
+		width: 60vw;
+		height: 10vh;
+	}
 }
 

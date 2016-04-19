@@ -1,7 +1,9 @@
 <html>
     <head>
-    	<script src="data.js"></script>
-    	<!--Leaflet styles and script-->
+        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <!--Leaflet styles and script-->
     	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
     	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 
@@ -15,8 +17,10 @@
         <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     	
 		<!--jQuery and Google Street View API scripts-->
-    	<script src="https://code.jquery.com/jquery-1.12.2.min.js" integrity="sha256-lZFHibXzMHo3GGeehn1hudTAP3Sc0uKXBXAzHX1sjtk=" crossorigin="anonymous"></script>
-    	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRUl9VBYskltbiLUIKdyHB8n9n5m9Jzcg"></script>   	
+    	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+    	<!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRUl9VBYskltbiLUIKdyHB8n9n5m9Jzcg"></script--> 
+
+        <script src="https://d3js.org/d3.v3.min.js"></script>  	
     </head>
 
     <body>
@@ -25,30 +29,56 @@
                 <h1 id="title">How many evictions near you?</h1>
             </div>            
             <div class="row">
-            	<div class=".col-md-6 .col-md-offset-3">
+            	<div class="wrapper">                    
+                  <article class="text">
                     <h4> Enter your street address, location, or landmark in San Francisco and see how many people have been served eviction notices near you. You can
-                    click on the dot to see a Street View of the building. </h4>
+                    click on the dot to see a Street View of the building.</h4>
 
                     <h4> E.g Runway Incubator, Bernal Heights, 1355 Market Street, San Francisco </h4>
-
+                  
                     <form id="user-location">
                         <input type="text" id="location-input" placeholder="Enter a location in San Francisco"/>
-                        <input type="submit" value="Show me">
+                        <input type="submit" value="Show me" id="button">
                     </form>
                     <div class="error-message">
-                        <p class="message" id="user-error"></p>
+                        <p class="message" id="user-error">Sorry, this address is either not in San Francisco or you can be more specific</p>
                     </div>
 
                     <div class="eviction-message">
                         <h3 class="eviction-message" id="eviction-count"></h3>
                     </div>
+                  </article>
                 </div>
             </div>
 
         	<div class="row">
+                <div id="stats-panel">
+                    <h1 id="nbd"></h1>
+                    <div class="summary" id="total">
+                      <p class="big" id="total-num"></p>
+                      <p class="subhead" id="total-sub"></p> 
+                    </div>
+
+                    <div id="highest" class="summary">
+                        <p class="big" id="highest-num"></p> 
+                        <p class="subhead" id="highest-sub"></p>                       
+                    </div>
+                </div>
                 <div id="map"></div>
-            	<div id="pano"></div>
             </div>
+
+            <div class="graph-wrapper clearfix">
+                <!-- <div class="total-wrapper"> -->
+                    <h3>Total evictions since 2011</h3>
+                    <div id="total-graph" class="graph"></div>
+                <!-- </div> -->
+                <!-- <div class="trend-wrapper"> -->
+                    <h3 class="pull-right">Eviction types and their trends</h3>                
+                    <div id="trend-graph" class="graph"></div>
+                <!-- </div> -->
+            </div>
+
+            <script src="data.js"></script>
         	<script src="script.js"></script>
         </div>
     </body>

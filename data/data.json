@@ -1,4 +1,4 @@
-var data = [
+[
   {
     "lat": "37.71214845",
     "neighborhood": "Visitacion Valley",
@@ -153,7 +153,7 @@ var data = [
     "address": "600 Block of Clement Street",
     "year": "2015",
     "long": "-122.4660309",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78373004",
@@ -405,7 +405,7 @@ var data = [
     "address": "1200 Block of 34th Avenue",
     "year": "2015",
     "long": "-122.4931957",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75609116",
@@ -465,7 +465,7 @@ var data = [
     "address": "1200 Block of 34th Avenue",
     "year": "2015",
     "long": "-122.4931957",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73970092",
@@ -753,7 +753,7 @@ var data = [
     "address": "700 Block of 15th Avenue",
     "year": "2015",
     "long": "-122.4735645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73271193",
@@ -1221,7 +1221,7 @@ var data = [
     "address": "100 Block of San Carlos Street",
     "year": "2015",
     "long": "-122.4201205",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7769444",
@@ -1341,7 +1341,7 @@ var data = [
     "address": "100 Block of San Carlos Street",
     "year": "2015",
     "long": "-122.4201205",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73475756",
@@ -1365,7 +1365,7 @@ var data = [
     "address": "100 Block of Noriega Street",
     "year": "2015",
     "long": "-122.4651296",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78500098",
@@ -1389,7 +1389,7 @@ var data = [
     "address": "100 Block of NOriega Street",
     "year": "2015",
     "long": "-122.4651296",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75939054",
@@ -1569,7 +1569,7 @@ var data = [
     "address": "3300 Block of 20th Street",
     "year": "2015",
     "long": "-122.4152294",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77688821",
@@ -1713,7 +1713,7 @@ var data = [
     "address": "1800 Block of 15th Street",
     "year": "2015",
     "long": "-122.4247344",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79559294",
@@ -1809,7 +1809,7 @@ var data = [
     "address": "1200 Block of Vallejo Street",
     "year": "2015",
     "long": "-122.41784",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75139293",
@@ -1845,7 +1845,7 @@ var data = [
     "address": "1200 Block of Vallejo Street",
     "year": "2015",
     "long": "-122.41784",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72555009",
@@ -1893,7 +1893,7 @@ var data = [
     "address": "300 Block of Silver Avenue",
     "year": "2015",
     "long": "-122.4299941",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78248521",
@@ -2025,7 +2025,7 @@ var data = [
     "address": "100 Block of 23rd Avenue",
     "year": "2015",
     "long": "-122.4830065",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78353943",
@@ -2049,7 +2049,7 @@ var data = [
     "address": "100 Block of 23rd Avenue",
     "year": "2015",
     "long": "-122.4830065",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78490378",
@@ -2061,7 +2061,7 @@ var data = [
     "address": "100 Block of 23rd Avenue",
     "year": "2015",
     "long": "-122.4830065",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78502466",
@@ -2169,7 +2169,7 @@ var data = [
     "address": "100 Block of SAn Carlos Street",
     "year": "2015",
     "long": "-122.4201205",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71658976",
@@ -2301,7 +2301,7 @@ var data = [
     "address": "100 Block of SAn Carlos Street",
     "year": "2015",
     "long": "-122.4201205",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78509947",
@@ -2469,7 +2469,7 @@ var data = [
     "address": "1000 Block of Vicente Street",
     "year": "2015",
     "long": "-122.478113",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77950527",
@@ -2649,7 +2649,7 @@ var data = [
     "address": "1000 Block of Vicente Street",
     "year": "2015",
     "long": "-122.478113",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73926147",
@@ -2661,7 +2661,7 @@ var data = [
     "address": "1000 Block of Vicente Street",
     "year": "2015",
     "long": "-122.478113",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72165523",
@@ -2985,7 +2985,7 @@ var data = [
     "address": "1900 Block of Ellis Street",
     "year": "2015",
     "long": "-122.43787",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74473055",
@@ -3033,7 +3033,7 @@ var data = [
     "address": "1900 Block of Ellis Street",
     "year": "2015",
     "long": "-122.43787",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73538469",
@@ -3081,7 +3081,7 @@ var data = [
     "address": "1900 Block of Ellis Street",
     "year": "2015",
     "long": "-122.43787",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75967932",
@@ -3777,7 +3777,7 @@ var data = [
     "address": "500 Block of 11th Avenue",
     "year": "2015",
     "long": "-122.4693588",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77792284",
@@ -3789,7 +3789,7 @@ var data = [
     "address": "500 Block of 11th Avenue",
     "year": "2015",
     "long": "-122.4693588",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77792284",
@@ -3801,7 +3801,7 @@ var data = [
     "address": "500 Block of 11th Avenue",
     "year": "2015",
     "long": "-122.4693588",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71528322",
@@ -3825,7 +3825,7 @@ var data = [
     "address": "500 Block of 11th Avenue",
     "year": "2015",
     "long": "-122.4693588",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77907442",
@@ -4317,7 +4317,7 @@ var data = [
     "address": "700 Block of Hampshire Street",
     "year": "2015",
     "long": "-122.4079331",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73390625",
@@ -5373,7 +5373,7 @@ var data = [
     "address": "3300 Block of 19th Street",
     "year": "2015",
     "long": "-122.4175667",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79601244",
@@ -6705,7 +6705,7 @@ var data = [
     "address": "800 Block of Potrero Avenue",
     "year": "2015",
     "long": "-122.4070026",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77503283",
@@ -6861,7 +6861,7 @@ var data = [
     "address": "600 Block of Francisco Street",
     "year": "2015",
     "long": "-122.4163633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.8042621",
@@ -6873,7 +6873,7 @@ var data = [
     "address": "600 Block of Francisco Street",
     "year": "2015",
     "long": "-122.4163633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73662045",
@@ -6897,7 +6897,7 @@ var data = [
     "address": "600 Block of Francisco Street",
     "year": "2015",
     "long": "-122.4163633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77404134",
@@ -6921,7 +6921,7 @@ var data = [
     "address": "600 Block of Francisco Street",
     "year": "2015",
     "long": "-122.4163633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76341006",
@@ -7797,7 +7797,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2015",
     "long": "-122.4236037",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78958407",
@@ -8037,7 +8037,7 @@ var data = [
     "address": "0 Block of Majestic Avenue",
     "year": "2015",
     "long": "-122.4513736",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75611774",
@@ -8073,7 +8073,7 @@ var data = [
     "address": "0 Block of Majestic Avenue",
     "year": "2015",
     "long": "-122.4513736",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76120222",
@@ -8325,7 +8325,7 @@ var data = [
     "address": "100 Block of Ellert Street",
     "year": "2015",
     "long": "-122.4172159",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72966764",
@@ -8625,7 +8625,7 @@ var data = [
     "address": "1200 Block of 2nd Avenue",
     "year": "2015",
     "long": "-122.4588446",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76987697",
@@ -8673,7 +8673,7 @@ var data = [
     "address": "1200 Block of 2nd Avenue",
     "year": "2015",
     "long": "-122.4588446",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.765783",
@@ -8685,7 +8685,7 @@ var data = [
     "address": "1200 Block of 2nd Avenue",
     "year": "2015",
     "long": "-122.4588446",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75006861",
@@ -9165,7 +9165,7 @@ var data = [
     "address": "200 Block of 21st Avenue",
     "year": "2015",
     "long": "-122.4805886",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77795453",
@@ -9225,7 +9225,7 @@ var data = [
     "address": "200 Block of 21st Avenue",
     "year": "2015",
     "long": "-122.4805886",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78326039",
@@ -9273,7 +9273,7 @@ var data = [
     "address": "200 Block of 21st Avenue",
     "year": "2015",
     "long": "-122.4805886",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74360345",
@@ -9933,7 +9933,7 @@ var data = [
     "address": "2700 Block of Broderick Street",
     "year": "2015",
     "long": "-122.4437357",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80294861",
@@ -10173,7 +10173,7 @@ var data = [
     "address": "400 Block of 34th Avenue",
     "year": "2015",
     "long": "-122.4945193",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72344259",
@@ -10197,7 +10197,7 @@ var data = [
     "address": "400 Block of 34th Avenue",
     "year": "2015",
     "long": "-122.4945193",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75937504",
@@ -10377,7 +10377,7 @@ var data = [
     "address": "300 Block of 15th Avenue",
     "year": "2015",
     "long": "-122.4739545",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77375098",
@@ -11985,7 +11985,7 @@ var data = [
     "address": "400 Block of 16th Avenue",
     "year": "2015",
     "long": "-122.475089",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74504842",
@@ -12165,7 +12165,7 @@ var data = [
     "address": "200 Block of Divisadero Street",
     "year": "2015",
     "long": "-122.4368353",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79835465",
@@ -12321,7 +12321,7 @@ var data = [
     "address": "600 Block of Edinburgh Street",
     "year": "2015",
     "long": "-122.4338292",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7848524",
@@ -12981,7 +12981,7 @@ var data = [
     "address": "1200 Block of 19th Street",
     "year": "2015",
     "long": "-122.3949611",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7847203",
@@ -12993,7 +12993,7 @@ var data = [
     "address": "200 Block of 27th Avenue",
     "year": "2015",
     "long": "-122.4871494",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74880298",
@@ -13197,7 +13197,7 @@ var data = [
     "address": "100 Block of Downey Street",
     "year": "2015",
     "long": "-122.4467836",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76329075",
@@ -13233,7 +13233,7 @@ var data = [
     "address": "1200 Block of Jackson Street",
     "year": "2015",
     "long": "-122.4156382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79977321",
@@ -13281,7 +13281,7 @@ var data = [
     "address": "1200 Block of Jackson Street",
     "year": "2015",
     "long": "-122.4156382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71614605",
@@ -13329,7 +13329,7 @@ var data = [
     "address": "100 Block of Downey Street",
     "year": "2015",
     "long": "-122.4467836",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.70867776",
@@ -13401,7 +13401,7 @@ var data = [
     "address": "2500 Block of 39th Avenue",
     "year": "2015",
     "long": "-122.4968508",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7124692",
@@ -13473,7 +13473,7 @@ var data = [
     "address": "2800 Block of 24th Street",
     "year": "2015",
     "long": "-122.4086647",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77659376",
@@ -13581,7 +13581,7 @@ var data = [
     "address": "200 Block of Divisadero Street",
     "year": "2015",
     "long": "-122.4368353",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72902252",
@@ -13677,7 +13677,7 @@ var data = [
     "address": "1300 Block of 41st Avenue",
     "year": "2015",
     "long": "-122.5005637",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77638477",
@@ -13989,7 +13989,7 @@ var data = [
     "address": "400 Block of Frederick Street",
     "year": "2015",
     "long": "-122.4507103",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75789544",
@@ -14013,7 +14013,7 @@ var data = [
     "address": "400 Block of Utah Street",
     "year": "2015",
     "long": "-122.4062984",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76660598",
@@ -14025,7 +14025,7 @@ var data = [
     "address": "400 Block of Frederick Street",
     "year": "2015",
     "long": "-122.4507103",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77512795",
@@ -14193,7 +14193,7 @@ var data = [
     "address": "200 Block of Divisadero Street",
     "year": "2015",
     "long": "-122.4368353",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72901253",
@@ -14733,7 +14733,7 @@ var data = [
     "address": "300 Block of 28th Street",
     "year": "2015",
     "long": "-122.4301518",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72045775",
@@ -14877,7 +14877,7 @@ var data = [
     "address": "200 Block of Ellsworth Street",
     "year": "2015",
     "long": "-122.4145385",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80216358",
@@ -15705,7 +15705,7 @@ var data = [
     "address": "1000 Block of Kansas Street",
     "year": "2015",
     "long": "-122.4026728",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78274397",
@@ -15729,7 +15729,7 @@ var data = [
     "address": "1000 Block of Kansas Street",
     "year": "2015",
     "long": "-122.4026728",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75757849",
@@ -15765,7 +15765,7 @@ var data = [
     "address": "1000 Block of Kansas Street",
     "year": "2015",
     "long": "-122.4026728",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71776809",
@@ -16137,7 +16137,7 @@ var data = [
     "address": "400 Block of Greenwich Street",
     "year": "2015",
     "long": "-122.4076985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.8039396",
@@ -16149,7 +16149,7 @@ var data = [
     "address": "500 Block of Chestnut Street",
     "year": "2015",
     "long": "-122.4122264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80259264",
@@ -16161,7 +16161,7 @@ var data = [
     "address": "400 Block of Greenwich Street",
     "year": "2015",
     "long": "-122.4076985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79908106",
@@ -16701,7 +16701,7 @@ var data = [
     "address": "0 Block of Seward Street",
     "year": "2015",
     "long": "-122.4393639",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78605122",
@@ -16929,7 +16929,7 @@ var data = [
     "address": "3400 Block of 21st Street",
     "year": "2015",
     "long": "-122.4241832",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80480308",
@@ -16977,7 +16977,7 @@ var data = [
     "address": "3400 Block of 21st Street",
     "year": "2015",
     "long": "-122.4241832",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71480629",
@@ -17001,7 +17001,7 @@ var data = [
     "address": "3400 Block of 21st Street",
     "year": "2015",
     "long": "-122.4241832",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75677253",
@@ -17013,7 +17013,7 @@ var data = [
     "address": "3400 Block of 21st Street",
     "year": "2015",
     "long": "-122.4241832",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78295707",
@@ -17049,7 +17049,7 @@ var data = [
     "address": "3400 Block of 21st Street",
     "year": "2015",
     "long": "-122.4241832",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75329845",
@@ -17733,7 +17733,7 @@ var data = [
     "address": "1200 Block of Vallejo Street",
     "year": "2015",
     "long": "-122.41784",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76200384",
@@ -17757,7 +17757,7 @@ var data = [
     "address": "1200 Block of Vallejo Street",
     "year": "2015",
     "long": "-122.41784",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.738122",
@@ -17841,7 +17841,7 @@ var data = [
     "address": "600 Block of Clayton Street",
     "year": "2015",
     "long": "-122.4484159",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76939812",
@@ -17901,7 +17901,7 @@ var data = [
     "address": "600 Block of Clayton Street",
     "year": "2015",
     "long": "-122.4484159",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76933996",
@@ -17913,7 +17913,7 @@ var data = [
     "address": "600 Block of Clayton Street",
     "year": "2015",
     "long": "-122.4484159",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78610645",
@@ -18153,7 +18153,7 @@ var data = [
     "address": "700 Block of Hampshire Street",
     "year": "2015",
     "long": "-122.4079331",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76374304",
@@ -19089,7 +19089,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -19101,7 +19101,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -19113,7 +19113,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71111863",
@@ -19137,7 +19137,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78061038",
@@ -19209,7 +19209,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77708346",
@@ -19233,7 +19233,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7429156",
@@ -19761,7 +19761,7 @@ var data = [
     "address": "0 Block of Majestic Avenue",
     "year": "2015",
     "long": "-122.4513736",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71769933",
@@ -19773,7 +19773,7 @@ var data = [
     "address": "0 Block of Majestic Avenue",
     "year": "2015",
     "long": "-122.4513736",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75690266",
@@ -20025,7 +20025,7 @@ var data = [
     "address": "100 Block of 11th Avenue",
     "year": "2015",
     "long": "-122.4700449",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76234866",
@@ -20073,7 +20073,7 @@ var data = [
     "address": "100 Block of 11th Avenue",
     "year": "2015",
     "long": "-122.4700449",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75496941",
@@ -20133,7 +20133,7 @@ var data = [
     "address": "300 Block of Lexington Street",
     "year": "2015",
     "long": "-122.4203536",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72453178",
@@ -20193,7 +20193,7 @@ var data = [
     "address": "2800 Block of Santiago Street",
     "year": "2015",
     "long": "-122.4977805",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74523762",
@@ -20301,7 +20301,7 @@ var data = [
     "address": "0 Block of Lyell Street",
     "year": "2015",
     "long": "-122.4316042",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76276905",
@@ -20349,7 +20349,7 @@ var data = [
     "address": "0 Block of Lyell Street",
     "year": "2015",
     "long": "-122.4316042",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78717352",
@@ -20637,7 +20637,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -20649,7 +20649,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -20661,7 +20661,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -20673,7 +20673,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -20685,7 +20685,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7774256",
@@ -20781,7 +20781,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2015",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71554505",
@@ -21033,7 +21033,7 @@ var data = [
     "address": "2400 Block of Folsom Street",
     "year": "2015",
     "long": "-122.4145468",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74720556",
@@ -21561,7 +21561,7 @@ var data = [
     "address": "1800 Block of 33rd Avenue",
     "year": "2015",
     "long": "-122.4914791",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76202049",
@@ -21597,7 +21597,7 @@ var data = [
     "address": "200 Block of Ellsworth Street",
     "year": "2015",
     "long": "-122.4145385",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72790299",
@@ -21789,7 +21789,7 @@ var data = [
     "address": "500 Block of College Avenue",
     "year": "2015",
     "long": "-122.4236573",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75796128",
@@ -21801,7 +21801,7 @@ var data = [
     "address": "900 Block of South Van Ness Avenue",
     "year": "2015",
     "long": "-122.416865",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74523762",
@@ -21825,7 +21825,7 @@ var data = [
     "address": "200 Block of Pixley Street",
     "year": "2015",
     "long": "-122.4365854",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75035261",
@@ -21861,7 +21861,7 @@ var data = [
     "address": "900 Block of South Van Ness Avenue",
     "year": "2015",
     "long": "-122.416865",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76632402",
@@ -21909,7 +21909,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7480783",
@@ -21921,7 +21921,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7480783",
@@ -21933,7 +21933,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75893705",
@@ -21957,7 +21957,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7480783",
@@ -21969,7 +21969,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7857351",
@@ -21993,7 +21993,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7480783",
@@ -22005,7 +22005,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7480783",
@@ -22017,7 +22017,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75728259",
@@ -22041,7 +22041,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7480783",
@@ -22053,7 +22053,7 @@ var data = [
     "address": "3300 Block of Cesar Chavez Street",
     "year": "2015",
     "long": "-122.4170382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77951975",
@@ -22173,7 +22173,7 @@ var data = [
     "address": "0 Block of Walter Street",
     "year": "2015",
     "long": "-122.4323128",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75205046",
@@ -22185,7 +22185,7 @@ var data = [
     "address": "1200 Block of York Street",
     "year": "2015",
     "long": "-122.4081819",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77471156",
@@ -22209,7 +22209,7 @@ var data = [
     "address": "2200 Block of 15th Street",
     "year": "2015",
     "long": "-122.4343585",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74977736",
@@ -22233,7 +22233,7 @@ var data = [
     "address": "2200 Block of 15th Street",
     "year": "2015",
     "long": "-122.4343585",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79299995",
@@ -22281,7 +22281,7 @@ var data = [
     "address": "1200 Block of York Street",
     "year": "2015",
     "long": "-122.4081819",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74977736",
@@ -22305,7 +22305,7 @@ var data = [
     "address": "2200 Block of 15th Street",
     "year": "2015",
     "long": "-122.4343585",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76463133",
@@ -22329,7 +22329,7 @@ var data = [
     "address": "1200 Block of York Street",
     "year": "2015",
     "long": "-122.4081819",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77869075",
@@ -22689,7 +22689,7 @@ var data = [
     "address": "1300 Block of Alabama Street",
     "year": "2015",
     "long": "-122.4106654",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75848362",
@@ -22701,7 +22701,7 @@ var data = [
     "address": "600 Block of Castro Street",
     "year": "2015",
     "long": "-122.4348446",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80648672",
@@ -23037,7 +23037,7 @@ var data = [
     "address": "1900 Block of Larkin Street",
     "year": "2015",
     "long": "-122.4199542",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76475861",
@@ -23073,7 +23073,7 @@ var data = [
     "address": "1900 Block of Larkin Street",
     "year": "2015",
     "long": "-122.4199542",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78325042",
@@ -23145,7 +23145,7 @@ var data = [
     "address": "1900 Block of Larkin Street",
     "year": "2015",
     "long": "-122.4199542",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71401112",
@@ -23361,7 +23361,7 @@ var data = [
     "address": "200 Block of Pixley Street",
     "year": "2015",
     "long": "-122.4365854",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75182706",
@@ -23445,7 +23445,7 @@ var data = [
     "address": "2500 Block of Moraga Street",
     "year": "2015",
     "long": "-122.4899927",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75546206",
@@ -23457,7 +23457,7 @@ var data = [
     "address": "2500 Block of Moraga Street",
     "year": "2015",
     "long": "-122.4899927",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78660195",
@@ -24753,7 +24753,7 @@ var data = [
     "address": "1300 Block of 24th Avenue",
     "year": "2015",
     "long": "-122.4824864",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76239206",
@@ -24765,7 +24765,7 @@ var data = [
     "address": "1300 Block of 24th Avenue",
     "year": "2015",
     "long": "-122.4824864",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77620321",
@@ -25137,7 +25137,7 @@ var data = [
     "address": "0 Block of Buena Vista Terrace",
     "year": "2015",
     "long": "-122.4382179",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78362007",
@@ -25305,7 +25305,7 @@ var data = [
     "address": "200 Block of Missouri Street",
     "year": "2015",
     "long": "-122.3965167",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73748619",
@@ -25533,7 +25533,7 @@ var data = [
     "address": "600 Block of 4th Avenue",
     "year": "2015",
     "long": "-122.4618699",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7695497",
@@ -25557,7 +25557,7 @@ var data = [
     "address": "600 Block of 4th Avenue",
     "year": "2015",
     "long": "-122.4618699",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77639645",
@@ -25569,7 +25569,7 @@ var data = [
     "address": "600 Block of 4th Avenue",
     "year": "2015",
     "long": "-122.4618699",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77639645",
@@ -25581,7 +25581,7 @@ var data = [
     "address": "600 Block of 4th Avenue",
     "year": "2015",
     "long": "-122.4618699",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7695497",
@@ -26313,7 +26313,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80321605",
@@ -26337,7 +26337,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71911838",
@@ -26361,7 +26361,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -26373,7 +26373,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -26385,7 +26385,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76379617",
@@ -26433,7 +26433,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74976939",
@@ -26925,7 +26925,7 @@ var data = [
     "address": "100 Block of Precita Avenue",
     "year": "2014",
     "long": "-122.4172463",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79832933",
@@ -26997,7 +26997,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71433481",
@@ -27069,7 +27069,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -27081,7 +27081,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -27093,7 +27093,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77440892",
@@ -27129,7 +27129,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78481092",
@@ -27141,7 +27141,7 @@ var data = [
     "address": "200 Block of 25th Avenue",
     "year": "2014",
     "long": "-122.4851485",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75875618",
@@ -27549,7 +27549,7 @@ var data = [
     "address": "200 Block of Missouri Street",
     "year": "2014",
     "long": "-122.3965167",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78274397",
@@ -27585,7 +27585,7 @@ var data = [
     "address": "200 Block of Missouri Street",
     "year": "2014",
     "long": "-122.3965167",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76321916",
@@ -27597,7 +27597,7 @@ var data = [
     "address": "200 Block of Missouri Street",
     "year": "2014",
     "long": "-122.3965167",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77625354",
@@ -27621,7 +27621,7 @@ var data = [
     "address": "200 Block of Missouri Street",
     "year": "2014",
     "long": "-122.3965167",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75956363",
@@ -28221,7 +28221,7 @@ var data = [
     "address": "1800 Block of Divisadero Street",
     "year": "2014",
     "long": "-122.4402686",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77320936",
@@ -28821,7 +28821,7 @@ var data = [
     "address": "400 Block of Noe Street",
     "year": "2014",
     "long": "-122.4329792",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78407817",
@@ -28953,7 +28953,7 @@ var data = [
     "address": "400 Block of Noe Street",
     "year": "2014",
     "long": "-122.4329792",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75828753",
@@ -29241,7 +29241,7 @@ var data = [
     "address": "2800 Block of Union Street",
     "year": "2014",
     "long": "-122.4461298",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77248116",
@@ -29277,7 +29277,7 @@ var data = [
     "address": "200 Block of Wheeler Avenue",
     "year": "2014",
     "long": "-122.3997119",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79091809",
@@ -29397,7 +29397,7 @@ var data = [
     "address": "0 Block of Eugenia Avenue",
     "year": "2014",
     "long": "-122.4215632",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80242557",
@@ -29457,7 +29457,7 @@ var data = [
     "address": "0 Block of Eugenia Avenue",
     "year": "2014",
     "long": "-122.4215632",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79992596",
@@ -29769,7 +29769,7 @@ var data = [
     "address": "200 Block of Joost Avenue",
     "year": "2014",
     "long": "-122.4408878",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77481706",
@@ -31857,7 +31857,7 @@ var data = [
     "address": "300 Block of Liberty Street",
     "year": "2014",
     "long": "-122.429052",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79525365",
@@ -34269,7 +34269,7 @@ var data = [
     "address": "200 Block of Wheeler Avenue",
     "year": "2014",
     "long": "-122.3997119",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74849651",
@@ -37221,7 +37221,7 @@ var data = [
     "address": "100 Block of Gaven Street",
     "year": "2014",
     "long": "-122.4086444",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73342554",
@@ -37233,7 +37233,7 @@ var data = [
     "address": "100 Block of Gaven Street",
     "year": "2014",
     "long": "-122.4086444",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79760649",
@@ -39165,7 +39165,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76876845",
@@ -39177,7 +39177,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76876845",
@@ -39189,7 +39189,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76876845",
@@ -39201,7 +39201,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78280363",
@@ -39225,7 +39225,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.802865",
@@ -39273,7 +39273,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76876845",
@@ -39285,7 +39285,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75767869",
@@ -39309,7 +39309,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79024438",
@@ -39333,7 +39333,7 @@ var data = [
     "address": "1400 Block of Stevenson Street",
     "year": "2014",
     "long": "-122.4213483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7438451",
@@ -40161,7 +40161,7 @@ var data = [
     "address": "100 Block of 15th Avenue",
     "year": "2014",
     "long": "-122.4742451",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71379921",
@@ -40545,7 +40545,7 @@ var data = [
     "address": "2700 Block of Hyde Street",
     "year": "2014",
     "long": "-122.4205328",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75701353",
@@ -42273,7 +42273,7 @@ var data = [
     "address": "800 Block of Rhode Island Street",
     "year": "2014",
     "long": "-122.4019492",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77284602",
@@ -42441,7 +42441,7 @@ var data = [
     "address": "200 Block of 27th Avenue",
     "year": "2014",
     "long": "-122.4871494",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71912719",
@@ -42477,7 +42477,7 @@ var data = [
     "address": "200 Block of 27th Avenue",
     "year": "2014",
     "long": "-122.4871494",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79139882",
@@ -42513,7 +42513,7 @@ var data = [
     "address": "200 Block of 27th Avenue",
     "year": "2014",
     "long": "-122.4871494",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7847203",
@@ -42525,7 +42525,7 @@ var data = [
     "address": "200 Block of 27th Avenue",
     "year": "2014",
     "long": "-122.4871494",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72754303",
@@ -42801,7 +42801,7 @@ var data = [
     "address": "600 Block of Natoma Street",
     "year": "2014",
     "long": "-122.411097",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77481706",
@@ -42849,7 +42849,7 @@ var data = [
     "address": "600 Block of Natoma Street",
     "year": "2014",
     "long": "-122.411097",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77757755",
@@ -42861,7 +42861,7 @@ var data = [
     "address": "600 Block of Natoma Street",
     "year": "2014",
     "long": "-122.411097",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79934198",
@@ -42957,7 +42957,7 @@ var data = [
     "address": "600 Block of 33rd Avenue",
     "year": "2014",
     "long": "-122.4931751",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7134307",
@@ -43461,7 +43461,7 @@ var data = [
     "address": "700 Block of CAPP Street",
     "year": "2014",
     "long": "-122.4175135",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75470644",
@@ -43473,7 +43473,7 @@ var data = [
     "address": "700 Block of CAPP Street",
     "year": "2014",
     "long": "-122.4175135",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78232123",
@@ -43521,7 +43521,7 @@ var data = [
     "address": "700 Block of CAPP Street",
     "year": "2014",
     "long": "-122.4175135",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71959974",
@@ -43545,7 +43545,7 @@ var data = [
     "address": "700 Block of Capp Street",
     "year": "2014",
     "long": "-122.4175135",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75470644",
@@ -43557,7 +43557,7 @@ var data = [
     "address": "700 Block of CAPP Street",
     "year": "2014",
     "long": "-122.4175135",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75470644",
@@ -43569,7 +43569,7 @@ var data = [
     "address": "700 Block of CAPP Street",
     "year": "2014",
     "long": "-122.4175135",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78232123",
@@ -45045,7 +45045,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2014",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73735522",
@@ -45069,7 +45069,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2014",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76075853",
@@ -45081,7 +45081,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2014",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72456823",
@@ -45165,7 +45165,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2014",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.70973773",
@@ -45285,7 +45285,7 @@ var data = [
     "address": "300 Block of Bartlett Street",
     "year": "2014",
     "long": "-122.4195475",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71554505",
@@ -45309,7 +45309,7 @@ var data = [
     "address": "300 Block of Bartlett Street",
     "year": "2014",
     "long": "-122.4195475",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71554505",
@@ -45333,7 +45333,7 @@ var data = [
     "address": "300 Block of Bartlett Street",
     "year": "2014",
     "long": "-122.4195475",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75136772",
@@ -45345,7 +45345,7 @@ var data = [
     "address": "300 Block of Bartlett Street",
     "year": "2014",
     "long": "-122.4195475",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75136772",
@@ -45357,7 +45357,7 @@ var data = [
     "address": "300 Block of Bartlett Street",
     "year": "2014",
     "long": "-122.4195475",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77717171",
@@ -45381,7 +45381,7 @@ var data = [
     "address": "300 Block of Bartlett Street",
     "year": "2014",
     "long": "-122.4195475",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7162491",
@@ -45873,7 +45873,7 @@ var data = [
     "address": "1600 Block of 19th Avenue",
     "year": "2014",
     "long": "-122.4764712",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75704703",
@@ -45885,7 +45885,7 @@ var data = [
     "address": "1600 Block of 19th Avenue",
     "year": "2014",
     "long": "-122.4764712",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76541826",
@@ -45897,7 +45897,7 @@ var data = [
     "address": "100 Block of Downey Street",
     "year": "2014",
     "long": "-122.4467836",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77515999",
@@ -45945,7 +45945,7 @@ var data = [
     "address": "100 Block of Downey Street",
     "year": "2014",
     "long": "-122.4467836",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76095169",
@@ -46089,7 +46089,7 @@ var data = [
     "address": "500 Block of Valencia Street",
     "year": "2014",
     "long": "-122.421878",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75004529",
@@ -46161,7 +46161,7 @@ var data = [
     "address": "500 Block of Valencia Street",
     "year": "2014",
     "long": "-122.421878",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79484383",
@@ -46785,7 +46785,7 @@ var data = [
     "address": "800 Block of Guerrero Street",
     "year": "2014",
     "long": "-122.4235599",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75796228",
@@ -46797,7 +46797,7 @@ var data = [
     "address": "800 Block of Guerrero Street",
     "year": "2014",
     "long": "-122.4235599",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78300064",
@@ -46833,7 +46833,7 @@ var data = [
     "address": "800 Block of Guerrero Street",
     "year": "2014",
     "long": "-122.4235599",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75796228",
@@ -46845,7 +46845,7 @@ var data = [
     "address": "800 Block of Guerrero Street",
     "year": "2014",
     "long": "-122.4235599",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7977905",
@@ -46977,7 +46977,7 @@ var data = [
     "address": "700 Block of 19TH Avenue",
     "year": "2014",
     "long": "-122.4779026",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75810421",
@@ -47049,7 +47049,7 @@ var data = [
     "address": "2000 Block of 14th Avenue",
     "year": "2014",
     "long": "-122.4708837",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77379372",
@@ -47061,7 +47061,7 @@ var data = [
     "address": "700 Block of 19TH Avenue",
     "year": "2014",
     "long": "-122.4779026",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75216995",
@@ -47109,7 +47109,7 @@ var data = [
     "address": "200 Block of Russia Street",
     "year": "2014",
     "long": "-122.4352205",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77620959",
@@ -47169,7 +47169,7 @@ var data = [
     "address": "200 Block of Russia Street",
     "year": "2014",
     "long": "-122.4352205",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79212424",
@@ -47445,7 +47445,7 @@ var data = [
     "address": "900 Block of JONES Street",
     "year": "2014",
     "long": "-122.4137538",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79000486",
@@ -47457,7 +47457,7 @@ var data = [
     "address": "900 Block of JONES Street",
     "year": "2014",
     "long": "-122.4137538",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79000486",
@@ -47469,7 +47469,7 @@ var data = [
     "address": "900 Block of JONES Street",
     "year": "2014",
     "long": "-122.4137538",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75344735",
@@ -47481,7 +47481,7 @@ var data = [
     "address": "1800 Block of 16th Avenue",
     "year": "2014",
     "long": "-122.4732668",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79000486",
@@ -47493,7 +47493,7 @@ var data = [
     "address": "900 Block of JONES Street",
     "year": "2014",
     "long": "-122.4137538",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79000486",
@@ -47505,7 +47505,7 @@ var data = [
     "address": "900 Block of JONES Street",
     "year": "2014",
     "long": "-122.4137538",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79000486",
@@ -47517,7 +47517,7 @@ var data = [
     "address": "900 Block of JONES Street",
     "year": "2014",
     "long": "-122.4137538",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77779031",
@@ -47541,7 +47541,7 @@ var data = [
     "address": "1800 Block of 16th Avenue",
     "year": "2014",
     "long": "-122.4732668",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79000486",
@@ -47553,7 +47553,7 @@ var data = [
     "address": "900 Block of JONES Street",
     "year": "2014",
     "long": "-122.4137538",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.70931002",
@@ -47637,7 +47637,7 @@ var data = [
     "address": "1800 Block of 16th Avenue",
     "year": "2014",
     "long": "-122.4732668",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74365061",
@@ -47649,7 +47649,7 @@ var data = [
     "address": "2300 Block of 26th Avenue",
     "year": "2014",
     "long": "-122.4833264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76512492",
@@ -47697,7 +47697,7 @@ var data = [
     "address": "2300 Block of 26th Avenue",
     "year": "2014",
     "long": "-122.4833264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74365061",
@@ -47709,7 +47709,7 @@ var data = [
     "address": "2300 Block of 26th Avenue",
     "year": "2014",
     "long": "-122.4833264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74996748",
@@ -47733,7 +47733,7 @@ var data = [
     "address": "2300 Block of 26th Avenue",
     "year": "2014",
     "long": "-122.4833264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75344735",
@@ -47745,7 +47745,7 @@ var data = [
     "address": "1800 Block of 16th Avenue",
     "year": "2014",
     "long": "-122.4732668",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74365061",
@@ -47757,7 +47757,7 @@ var data = [
     "address": "2300 Block of 26th Avenue",
     "year": "2014",
     "long": "-122.4833264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73382068",
@@ -48237,7 +48237,7 @@ var data = [
     "address": "700 Block of Brunswick Street",
     "year": "2014",
     "long": "-122.4487876",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76719904",
@@ -48321,7 +48321,7 @@ var data = [
     "address": "300 Block of 21st Avenue",
     "year": "2014",
     "long": "-122.4804512",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76019229",
@@ -48441,7 +48441,7 @@ var data = [
     "address": "2300 Block of 32nd Avenue",
     "year": "2014",
     "long": "-122.4896162",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78104897",
@@ -48477,7 +48477,7 @@ var data = [
     "address": "2300 Block of 32nd Avenue",
     "year": "2014",
     "long": "-122.4896162",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71901187",
@@ -49545,7 +49545,7 @@ var data = [
     "address": "0 Block of Eureka Street",
     "year": "2014",
     "long": "-122.4382448",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "2115481.703",
@@ -50685,7 +50685,7 @@ var data = [
     "address": "0 Block of Culebra Terrace",
     "year": "2014",
     "long": "-122.4222968",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76319682",
@@ -50949,7 +50949,7 @@ var data = [
     "address": "200 Block of Divisadero Street",
     "year": "2013",
     "long": "-122.4368353",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77524505",
@@ -50961,7 +50961,7 @@ var data = [
     "address": "1600 Block of Grove Street",
     "year": "2013",
     "long": "-122.4437801",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78900493",
@@ -50985,7 +50985,7 @@ var data = [
     "address": "0 Block of BELCHER Street",
     "year": "2013",
     "long": "-122.4302334",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76075853",
@@ -50997,7 +50997,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78900493",
@@ -51021,7 +51021,7 @@ var data = [
     "address": "1600 Block of Grove Street",
     "year": "2013",
     "long": "-122.4437801",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76075853",
@@ -51033,7 +51033,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76075853",
@@ -51045,7 +51045,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77300951",
@@ -51057,7 +51057,7 @@ var data = [
     "address": "1300 Block of Folsom Street",
     "year": "2013",
     "long": "-122.4124758",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74601269",
@@ -51117,7 +51117,7 @@ var data = [
     "address": "0 Block of BELCHER Street",
     "year": "2013",
     "long": "-122.4302334",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76075853",
@@ -51129,7 +51129,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77749973",
@@ -51165,7 +51165,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78900493",
@@ -51201,7 +51201,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77300951",
@@ -51213,7 +51213,7 @@ var data = [
     "address": "1300 Block of Folsom Street",
     "year": "2013",
     "long": "-122.4124758",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77082137",
@@ -51225,7 +51225,7 @@ var data = [
     "address": "200 Block of Divisadero Street",
     "year": "2013",
     "long": "-122.4368353",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77524505",
@@ -51237,7 +51237,7 @@ var data = [
     "address": "1600 Block of Grove Street",
     "year": "2013",
     "long": "-122.4437801",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78900493",
@@ -51261,7 +51261,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76852302",
@@ -51273,7 +51273,7 @@ var data = [
     "address": "0 Block of BELCHER Street",
     "year": "2013",
     "long": "-122.4302334",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76852302",
@@ -51285,7 +51285,7 @@ var data = [
     "address": "0 Block of BELCHER Street",
     "year": "2013",
     "long": "-122.4302334",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76075853",
@@ -51297,7 +51297,7 @@ var data = [
     "address": "600 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4238382",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78326039",
@@ -51381,7 +51381,7 @@ var data = [
     "address": "200 Block of Russia Avenue",
     "year": "2013",
     "long": "-122.4352205",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72058897",
@@ -51393,7 +51393,7 @@ var data = [
     "address": "200 Block of Russia Avenue",
     "year": "2013",
     "long": "-122.4352205",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76504135",
@@ -51465,7 +51465,7 @@ var data = [
     "address": "300 Block of Coleridge Street",
     "year": "2013",
     "long": "-122.4211834",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78480739",
@@ -51549,7 +51549,7 @@ var data = [
     "address": "300 Block of Coleridge Street",
     "year": "2013",
     "long": "-122.4211834",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74155716",
@@ -51561,7 +51561,7 @@ var data = [
     "address": "300 Block of Coleridge Street",
     "year": "2013",
     "long": "-122.4211834",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72859469",
@@ -51585,7 +51585,7 @@ var data = [
     "address": "300 Block of Coleridge Street",
     "year": "2013",
     "long": "-122.4211834",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74155716",
@@ -51597,7 +51597,7 @@ var data = [
     "address": "300 Block of Coleridge Street",
     "year": "2013",
     "long": "-122.4211834",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74155716",
@@ -51609,7 +51609,7 @@ var data = [
     "address": "300 Block of Coleridge Street",
     "year": "2013",
     "long": "-122.4211834",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.70947632",
@@ -51693,7 +51693,7 @@ var data = [
     "address": "100 Block of Duboce Avenue",
     "year": "2013",
     "long": "-122.4234785",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74718201",
@@ -51741,7 +51741,7 @@ var data = [
     "address": "100 Block of Duboce Avenue",
     "year": "2013",
     "long": "-122.4234785",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76974579",
@@ -51753,7 +51753,7 @@ var data = [
     "address": "100 Block of Duboce Avenue",
     "year": "2013",
     "long": "-122.4234785",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7747029",
@@ -51909,7 +51909,7 @@ var data = [
     "address": "0 Block of Wetmore Street",
     "year": "2013",
     "long": "-122.4103891",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77749973",
@@ -51933,7 +51933,7 @@ var data = [
     "address": "0 Block of Wetmore Street",
     "year": "2013",
     "long": "-122.4103891",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79351814",
@@ -51945,7 +51945,7 @@ var data = [
     "address": "0 Block of Wetmore Street",
     "year": "2013",
     "long": "-122.4103891",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79814929",
@@ -51993,7 +51993,7 @@ var data = [
     "address": "400 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4089371",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -52005,7 +52005,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79797576",
@@ -52029,7 +52029,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -52041,7 +52041,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -52053,7 +52053,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -52065,7 +52065,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78595211",
@@ -52089,7 +52089,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -52101,7 +52101,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75344735",
@@ -52137,7 +52137,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75170867",
@@ -52149,7 +52149,7 @@ var data = [
     "address": "2800 Block of Folsom Street",
     "year": "2013",
     "long": "-122.4139369",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77141036",
@@ -52173,7 +52173,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74482916",
@@ -52845,7 +52845,7 @@ var data = [
     "address": "0 Block of Surrey Street",
     "year": "2013",
     "long": "-122.433829",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76612595",
@@ -52869,7 +52869,7 @@ var data = [
     "address": "1200 Block of 24th Avenue",
     "year": "2013",
     "long": "-122.4824795",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73559115",
@@ -52929,7 +52929,7 @@ var data = [
     "address": "1300 Block of 16th Avenue",
     "year": "2013",
     "long": "-122.4737789",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76427087",
@@ -52941,7 +52941,7 @@ var data = [
     "address": "1200 Block of 24th Avenue",
     "year": "2013",
     "long": "-122.4824795",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71495109",
@@ -53013,7 +53013,7 @@ var data = [
     "address": "1500 Block of Howard Street",
     "year": "2013",
     "long": "-122.4158814",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77274131",
@@ -53025,7 +53025,7 @@ var data = [
     "address": "1500 Block of Howard Street",
     "year": "2013",
     "long": "-122.4158814",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78061177",
@@ -53073,7 +53073,7 @@ var data = [
     "address": "0 Block of Surrey Street",
     "year": "2013",
     "long": "-122.433829",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73738914",
@@ -53229,7 +53229,7 @@ var data = [
     "address": "100 Block of gough Street",
     "year": "2013",
     "long": "-122.4224818",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77493769",
@@ -53253,7 +53253,7 @@ var data = [
     "address": "100 Block of gough Street",
     "year": "2013",
     "long": "-122.4224818",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79176907",
@@ -53313,7 +53313,7 @@ var data = [
     "address": "400 Block of Greenwich Street",
     "year": "2013",
     "long": "-122.4076985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80259264",
@@ -53325,7 +53325,7 @@ var data = [
     "address": "400 Block of Greenwich Street",
     "year": "2013",
     "long": "-122.4076985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77823233",
@@ -53349,7 +53349,7 @@ var data = [
     "address": "400 Block of Greenwich Street",
     "year": "2013",
     "long": "-122.4076985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76941133",
@@ -53397,7 +53397,7 @@ var data = [
     "address": "400 Block of Greenwich Street",
     "year": "2013",
     "long": "-122.4076985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80259264",
@@ -53409,7 +53409,7 @@ var data = [
     "address": "400 Block of Greenwich Street",
     "year": "2013",
     "long": "-122.4076985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7568974",
@@ -53457,7 +53457,7 @@ var data = [
     "address": "400 Block of Greenwich Street",
     "year": "2013",
     "long": "-122.4076985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75344735",
@@ -53781,7 +53781,7 @@ var data = [
     "address": "500 Block of Lawton Street",
     "year": "2013",
     "long": "-122.4685995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77740036",
@@ -54213,7 +54213,7 @@ var data = [
     "address": "100 Block of Concord Street",
     "year": "2013",
     "long": "-122.44247",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71151637",
@@ -54225,7 +54225,7 @@ var data = [
     "address": "100 Block of Concord Street",
     "year": "2013",
     "long": "-122.44247",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76713279",
@@ -54705,7 +54705,7 @@ var data = [
     "address": "1000 Block of Treat Avenue",
     "year": "2013",
     "long": "-122.413137",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74140559",
@@ -54729,7 +54729,7 @@ var data = [
     "address": "1000 Block of Treat Avenue",
     "year": "2013",
     "long": "-122.413137",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77514034",
@@ -55101,7 +55101,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76504135",
@@ -55125,7 +55125,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55137,7 +55137,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55149,7 +55149,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55161,7 +55161,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55173,7 +55173,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55185,7 +55185,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55197,7 +55197,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55209,7 +55209,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55221,7 +55221,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78363413",
@@ -55257,7 +55257,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55269,7 +55269,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55281,7 +55281,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55293,7 +55293,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55305,7 +55305,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55317,7 +55317,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55329,7 +55329,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79275925",
@@ -55341,7 +55341,7 @@ var data = [
     "address": "1100 Block of Sacramento Street",
     "year": "2013",
     "long": "-122.4114645",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71357024",
@@ -55605,7 +55605,7 @@ var data = [
     "address": "100 Block of 15th Avenue",
     "year": "2013",
     "long": "-122.4743833",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80216358",
@@ -55641,7 +55641,7 @@ var data = [
     "address": "100 Block of 15th Avenue",
     "year": "2013",
     "long": "-122.4743833",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80216358",
@@ -57333,7 +57333,7 @@ var data = [
     "address": "1100 Block of Mariposa Street",
     "year": "2013",
     "long": "-122.3952006",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71433481",
@@ -57525,7 +57525,7 @@ var data = [
     "address": "0 Block of Buena Vista Terrace",
     "year": "2013",
     "long": "-122.4383559",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73127946",
@@ -57621,7 +57621,7 @@ var data = [
     "address": "200 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214474",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71621109",
@@ -57645,7 +57645,7 @@ var data = [
     "address": "200 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214474",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75125254",
@@ -57657,7 +57657,7 @@ var data = [
     "address": "200 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214474",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75125254",
@@ -57669,7 +57669,7 @@ var data = [
     "address": "200 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214474",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71433481",
@@ -57729,7 +57729,7 @@ var data = [
     "address": "200 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214474",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71554505",
@@ -57909,7 +57909,7 @@ var data = [
     "address": "1700 Block of Hyde Street",
     "year": "2013",
     "long": "-122.418633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79679595",
@@ -57921,7 +57921,7 @@ var data = [
     "address": "1700 Block of Hyde Street",
     "year": "2013",
     "long": "-122.418633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79679595",
@@ -57933,7 +57933,7 @@ var data = [
     "address": "1700 Block of Hyde Street",
     "year": "2013",
     "long": "-122.418633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78263551",
@@ -58017,7 +58017,7 @@ var data = [
     "address": "1700 Block of Hyde Street",
     "year": "2013",
     "long": "-122.418633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79679595",
@@ -58029,7 +58029,7 @@ var data = [
     "address": "1700 Block of Hyde Street",
     "year": "2013",
     "long": "-122.418633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79679595",
@@ -58041,7 +58041,7 @@ var data = [
     "address": "1700 Block of Hyde Street",
     "year": "2013",
     "long": "-122.418633",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71612294",
@@ -58185,7 +58185,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -58197,7 +58197,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -58209,7 +58209,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78492113",
@@ -58233,7 +58233,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -58245,7 +58245,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -58257,7 +58257,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78469892",
@@ -58281,7 +58281,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -58293,7 +58293,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75442429",
@@ -58305,7 +58305,7 @@ var data = [
     "address": "2800 Block of 23rd Street",
     "year": "2013",
     "long": "-122.4097418",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77536668",
@@ -59529,7 +59529,7 @@ var data = [
     "address": "1100 Block of Filbert Street",
     "year": "2013",
     "long": "-122.4184208",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71911838",
@@ -59565,7 +59565,7 @@ var data = [
     "address": "1200 Block of Hampshire Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78148395",
@@ -59589,7 +59589,7 @@ var data = [
     "address": "1200 Block of Hampshire Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7200756",
@@ -59613,7 +59613,7 @@ var data = [
     "address": "1200 Block of Hampshire Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75210428",
@@ -59625,7 +59625,7 @@ var data = [
     "address": "1200 Block of Hampshire Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76103363",
@@ -59733,7 +59733,7 @@ var data = [
     "address": "3300 Block of 20th Street",
     "year": "2013",
     "long": "-122.4152294",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76781052",
@@ -60045,7 +60045,7 @@ var data = [
     "address": "3300 Block of 20th Street",
     "year": "2013",
     "long": "-122.4152294",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "2121760.87",
@@ -60597,7 +60597,7 @@ var data = [
     "address": "1700 Block of 8th Avenue",
     "year": "2013",
     "long": "-122.4647246",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80032902",
@@ -60621,7 +60621,7 @@ var data = [
     "address": "1700 Block of 8th Avenue",
     "year": "2013",
     "long": "-122.4647246",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.8039396",
@@ -60633,7 +60633,7 @@ var data = [
     "address": "500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4122264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7723804",
@@ -60741,7 +60741,7 @@ var data = [
     "address": "500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4122264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78287729",
@@ -60789,7 +60789,7 @@ var data = [
     "address": "1200 Block of 42nd Avenue",
     "year": "2013",
     "long": "-122.5017665",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76342073",
@@ -60801,7 +60801,7 @@ var data = [
     "address": "1200 Block of 42nd Avenue",
     "year": "2013",
     "long": "-122.5017665",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72139911",
@@ -60921,7 +60921,7 @@ var data = [
     "address": "1600 Block of Beach Street",
     "year": "2013",
     "long": "-122.4362788",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78116435",
@@ -60981,7 +60981,7 @@ var data = [
     "address": "1600 Block of Beach Street",
     "year": "2013",
     "long": "-122.4362788",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72465238",
@@ -61137,7 +61137,7 @@ var data = [
     "address": "0 Block of Powers Avenue",
     "year": "2013",
     "long": "-122.418985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73256809",
@@ -61161,7 +61161,7 @@ var data = [
     "address": "0 Block of Powers Avenue",
     "year": "2013",
     "long": "-122.418985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74590984",
@@ -61173,7 +61173,7 @@ var data = [
     "address": "0 Block of Powers Avenue",
     "year": "2013",
     "long": "-122.418985",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76036939",
@@ -61233,7 +61233,7 @@ var data = [
     "address": "0 Block of Seward Street",
     "year": "2013",
     "long": "-122.440442",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73406414",
@@ -62145,7 +62145,7 @@ var data = [
     "address": "1100 Block of Filbert Street",
     "year": "2013",
     "long": "-122.4184208",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79911051",
@@ -62445,7 +62445,7 @@ var data = [
     "address": "0 Block of Belcher Street",
     "year": "2013",
     "long": "-122.4302334",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71708121",
@@ -62469,7 +62469,7 @@ var data = [
     "address": "0 Block of Belcher Street",
     "year": "2013",
     "long": "-122.4302334",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76852302",
@@ -62481,7 +62481,7 @@ var data = [
     "address": "0 Block of Belcher Street",
     "year": "2013",
     "long": "-122.4302334",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74940229",
@@ -62493,7 +62493,7 @@ var data = [
     "address": "300 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214067",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71331778",
@@ -62529,7 +62529,7 @@ var data = [
     "address": "0 Block of Belcher Street",
     "year": "2013",
     "long": "-122.4302334",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78015195",
@@ -62553,7 +62553,7 @@ var data = [
     "address": "300 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214067",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72012459",
@@ -62577,7 +62577,7 @@ var data = [
     "address": "300 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214067",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74940229",
@@ -62589,7 +62589,7 @@ var data = [
     "address": "300 Block of San Jose Avenue",
     "year": "2013",
     "long": "-122.4214067",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78770285",
@@ -62625,7 +62625,7 @@ var data = [
     "address": "1100 Block of Pacific Avenue",
     "year": "2013",
     "long": "-122.4138327",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79629419",
@@ -62637,7 +62637,7 @@ var data = [
     "address": "1500 Block of Taylor Street",
     "year": "2013",
     "long": "-122.4134787",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79629419",
@@ -62649,7 +62649,7 @@ var data = [
     "address": "1500 Block of Taylor Street",
     "year": "2013",
     "long": "-122.4134787",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75260197",
@@ -62697,7 +62697,7 @@ var data = [
     "address": "1300 Block of Filbert Street",
     "year": "2013",
     "long": "-122.421693",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73142166",
@@ -62745,7 +62745,7 @@ var data = [
     "address": "2100 Block of Judah Street",
     "year": "2013",
     "long": "-122.4850284",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77252751",
@@ -63093,7 +63093,7 @@ var data = [
     "address": "300 Block of Brazil Avenue",
     "year": "2013",
     "long": "-122.4320683",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75679816",
@@ -63129,7 +63129,7 @@ var data = [
     "address": "300 Block of Brazil Avenue",
     "year": "2013",
     "long": "-122.4320683",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77752921",
@@ -63177,7 +63177,7 @@ var data = [
     "address": "500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4122264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77588654",
@@ -63225,7 +63225,7 @@ var data = [
     "address": "500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4122264",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76077326",
@@ -64725,7 +64725,7 @@ var data = [
     "address": "300 Block of Texas Street",
     "year": "2013",
     "long": "-122.3954307",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72890508",
@@ -64761,7 +64761,7 @@ var data = [
     "address": "1100 Block of York Street",
     "year": "2013",
     "long": "-122.4083349",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77444199",
@@ -64833,7 +64833,7 @@ var data = [
     "address": "1100 Block of York Street",
     "year": "2013",
     "long": "-122.4083349",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78020044",
@@ -64857,7 +64857,7 @@ var data = [
     "address": "1100 Block of York Street",
     "year": "2013",
     "long": "-122.4083349",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75364846",
@@ -64869,7 +64869,7 @@ var data = [
     "address": "1100 Block of York Street",
     "year": "2013",
     "long": "-122.4083349",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7946581",
@@ -65097,7 +65097,7 @@ var data = [
     "address": "0 Block of Deming Street",
     "year": "2013",
     "long": "-122.4458323",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72966764",
@@ -65145,7 +65145,7 @@ var data = [
     "address": "0 Block of Deming Street",
     "year": "2013",
     "long": "-122.4458323",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76987697",
@@ -65565,7 +65565,7 @@ var data = [
     "address": "1500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4288335",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76650769",
@@ -65589,7 +65589,7 @@ var data = [
     "address": "1500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4288335",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75129587",
@@ -65601,7 +65601,7 @@ var data = [
     "address": "1200 Block of Church Street",
     "year": "2013",
     "long": "-122.427465",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75129587",
@@ -65613,7 +65613,7 @@ var data = [
     "address": "1200 Block of Church Street",
     "year": "2013",
     "long": "-122.427465",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7989796",
@@ -65649,7 +65649,7 @@ var data = [
     "address": "1200 Block of Church Street",
     "year": "2013",
     "long": "-122.427465",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76808754",
@@ -65673,7 +65673,7 @@ var data = [
     "address": "1500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4288335",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77650134",
@@ -65697,7 +65697,7 @@ var data = [
     "address": "1500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4288335",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74880298",
@@ -65733,7 +65733,7 @@ var data = [
     "address": "1500 Block of Chestnut Street",
     "year": "2013",
     "long": "-122.4288335",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77730572",
@@ -66069,7 +66069,7 @@ var data = [
     "address": "0 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4245193",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75287877",
@@ -66081,7 +66081,7 @@ var data = [
     "address": "2800 Block of 24th Street",
     "year": "2013",
     "long": "-122.4086647",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77482735",
@@ -66105,7 +66105,7 @@ var data = [
     "address": "0 Block of Guerrero Street",
     "year": "2013",
     "long": "-122.4245193",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77090089",
@@ -66753,7 +66753,7 @@ var data = [
     "address": "0 Block of Clement Street",
     "year": "2013",
     "long": "-122.4595718",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75373717",
@@ -67089,7 +67089,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -67101,7 +67101,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -67113,7 +67113,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -67125,7 +67125,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -67137,7 +67137,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -67149,7 +67149,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80650391",
@@ -67197,7 +67197,7 @@ var data = [
     "address": "1200 Block of HAMPSHIRE Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75210428",
@@ -67209,7 +67209,7 @@ var data = [
     "address": "1200 Block of HAMPSHIRE Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76050048",
@@ -67221,7 +67221,7 @@ var data = [
     "address": "0 Block of Deming Street",
     "year": "2013",
     "long": "-122.4458323",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75210428",
@@ -67233,7 +67233,7 @@ var data = [
     "address": "1200 Block of HAMPSHIRE Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75210428",
@@ -67245,7 +67245,7 @@ var data = [
     "address": "1200 Block of HAMPSHIRE Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76050048",
@@ -67257,7 +67257,7 @@ var data = [
     "address": "0 Block of Deming Street",
     "year": "2013",
     "long": "-122.4458323",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78119315",
@@ -67317,7 +67317,7 @@ var data = [
     "address": "300 Block of Roosevelt Way",
     "year": "2013",
     "long": "-122.4428694",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77537256",
@@ -67365,7 +67365,7 @@ var data = [
     "address": "300 Block of Roosevelt Way",
     "year": "2013",
     "long": "-122.4428694",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75593941",
@@ -67629,7 +67629,7 @@ var data = [
     "address": "300 Block of Noriega Street",
     "year": "2013",
     "long": "-122.4672629",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79914616",
@@ -68193,7 +68193,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4100376",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74455578",
@@ -68217,7 +68217,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4100376",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79900403",
@@ -68253,7 +68253,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4100376",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75679119",
@@ -68277,7 +68277,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4100376",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73738914",
@@ -68325,7 +68325,7 @@ var data = [
     "address": "1500 Block of Taylor Street",
     "year": "2013",
     "long": "-122.4134787",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7544752",
@@ -68373,7 +68373,7 @@ var data = [
     "address": "1100 Block of Pacific Avenue",
     "year": "2013",
     "long": "-122.4138327",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7579669",
@@ -68397,7 +68397,7 @@ var data = [
     "address": "1100 Block of Pacific Avenue",
     "year": "2013",
     "long": "-122.4138327",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79629419",
@@ -68409,7 +68409,7 @@ var data = [
     "address": "1500 Block of Taylor Street",
     "year": "2013",
     "long": "-122.4134787",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75303785",
@@ -68625,7 +68625,7 @@ var data = [
     "address": "0 Block of Dolores Street",
     "year": "2013",
     "long": "-122.4265904",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78232841",
@@ -68697,7 +68697,7 @@ var data = [
     "address": "0 Block of Dolores Street",
     "year": "2013",
     "long": "-122.4265904",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71382666",
@@ -68733,7 +68733,7 @@ var data = [
     "address": "0 Block of Dolores Street",
     "year": "2013",
     "long": "-122.4265904",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76842297",
@@ -68745,7 +68745,7 @@ var data = [
     "address": "0 Block of Dolores Street",
     "year": "2013",
     "long": "-122.4265904",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76842297",
@@ -68757,7 +68757,7 @@ var data = [
     "address": "0 Block of Dolores Street",
     "year": "2013",
     "long": "-122.4265904",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78764811",
@@ -70461,7 +70461,7 @@ var data = [
     "address": "3400 Block of 19th Street",
     "year": "2013",
     "long": "-122.4195957",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7602669",
@@ -70473,7 +70473,7 @@ var data = [
     "address": "3400 Block of 19th Street",
     "year": "2013",
     "long": "-122.4195957",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72549692",
@@ -70497,7 +70497,7 @@ var data = [
     "address": "3400 Block of 19th Street",
     "year": "2013",
     "long": "-122.4195957",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7602669",
@@ -70509,7 +70509,7 @@ var data = [
     "address": "3400 Block of 19th Street",
     "year": "2013",
     "long": "-122.4195957",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71116972",
@@ -70557,7 +70557,7 @@ var data = [
     "address": "3400 Block of 19th Street",
     "year": "2013",
     "long": "-122.4195957",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7602669",
@@ -70569,7 +70569,7 @@ var data = [
     "address": "3400 Block of 19th Street",
     "year": "2013",
     "long": "-122.4195957",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.70876866",
@@ -70989,7 +70989,7 @@ var data = [
     "address": "1400 Block of 24th Avenue",
     "year": "2013",
     "long": "-122.4823557",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76863695",
@@ -71121,7 +71121,7 @@ var data = [
     "address": "500 Block of 15th Avenue",
     "year": "2013",
     "long": "-122.4736964",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78555997",
@@ -71757,7 +71757,7 @@ var data = [
     "address": "1200 Block of Hampshire Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71667312",
@@ -71865,7 +71865,7 @@ var data = [
     "address": "1500 Block of Howard Street",
     "year": "2013",
     "long": "-122.4158814",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77467503",
@@ -71889,7 +71889,7 @@ var data = [
     "address": "1500 Block of Howard Street",
     "year": "2013",
     "long": "-122.4158814",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80216358",
@@ -71937,7 +71937,7 @@ var data = [
     "address": "200 Block of 4th Avenue",
     "year": "2013",
     "long": "-122.4622784",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7839758",
@@ -71949,7 +71949,7 @@ var data = [
     "address": "200 Block of 4th Avenue",
     "year": "2013",
     "long": "-122.4622784",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78822869",
@@ -72309,7 +72309,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80315259",
@@ -72321,7 +72321,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80315259",
@@ -72333,7 +72333,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80315259",
@@ -72345,7 +72345,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80315259",
@@ -72357,7 +72357,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80315259",
@@ -72369,7 +72369,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73162393",
@@ -72417,7 +72417,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80315259",
@@ -72429,7 +72429,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78717352",
@@ -72465,7 +72465,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77388174",
@@ -72489,7 +72489,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80315259",
@@ -72501,7 +72501,7 @@ var data = [
     "address": "500 Block of Lombard Street",
     "year": "2013",
     "long": "-122.4108786",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77730572",
@@ -72657,7 +72657,7 @@ var data = [
     "address": "1000 Block of Post Street",
     "year": "2013",
     "long": "-122.4191104",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78698698",
@@ -72669,7 +72669,7 @@ var data = [
     "address": "1000 Block of Post Street",
     "year": "2013",
     "long": "-122.4191104",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78698698",
@@ -72681,7 +72681,7 @@ var data = [
     "address": "1000 Block of Post Street",
     "year": "2013",
     "long": "-122.4191104",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79024438",
@@ -72705,7 +72705,7 @@ var data = [
     "address": "1000 Block of Post Street",
     "year": "2013",
     "long": "-122.4191104",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78698698",
@@ -72717,7 +72717,7 @@ var data = [
     "address": "1000 Block of Post Street",
     "year": "2013",
     "long": "-122.4191104",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79024438",
@@ -72777,7 +72777,7 @@ var data = [
     "address": "1000 Block of Post Street",
     "year": "2013",
     "long": "-122.4191104",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76801829",
@@ -73989,7 +73989,7 @@ var data = [
     "address": "1500 Block of Howard Street",
     "year": "2013",
     "long": "-122.4158814",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76997282",
@@ -74037,7 +74037,7 @@ var data = [
     "address": "1500 Block of Howard Street",
     "year": "2013",
     "long": "-122.4158814",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75816679",
@@ -74073,7 +74073,7 @@ var data = [
     "address": "1500 Block of Howard Street",
     "year": "2013",
     "long": "-122.4158814",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71433481",
@@ -74361,7 +74361,7 @@ var data = [
     "address": "1200 Block of Hampshire Street",
     "year": "2013",
     "long": "-122.4072841",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79026526",
@@ -74457,7 +74457,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76532283",
@@ -74481,7 +74481,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -74493,7 +74493,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79608048",
@@ -74517,7 +74517,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -74529,7 +74529,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -74541,7 +74541,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75746278",
@@ -74553,7 +74553,7 @@ var data = [
     "address": "1600 Block of 10th Avenue",
     "year": "2013",
     "long": "-122.4669965",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75650274",
@@ -75033,7 +75033,7 @@ var data = [
     "address": "1400 Block of 18th Avenue",
     "year": "2012",
     "long": "-122.4757912",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79484383",
@@ -75201,7 +75201,7 @@ var data = [
     "address": "600 Block of Moraga Street",
     "year": "2012",
     "long": "-122.4695421",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75646922",
@@ -75213,7 +75213,7 @@ var data = [
     "address": "600 Block of Moraga Street",
     "year": "2012",
     "long": "-122.4695421",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.70946138",
@@ -75381,7 +75381,7 @@ var data = [
     "address": "800 Block of 29th Avenue",
     "year": "2012",
     "long": "-122.4886078",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77575729",
@@ -75453,7 +75453,7 @@ var data = [
     "address": "1100 Block of Green Street",
     "year": "2012",
     "long": "-122.4183555",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75583858",
@@ -75549,7 +75549,7 @@ var data = [
     "address": "2300 Block of Bush Street",
     "year": "2012",
     "long": "-122.4359152",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77151021",
@@ -76329,7 +76329,7 @@ var data = [
     "address": "162100 Block of Lucky Street",
     "year": "2012",
     "long": "-122.4133577",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72675673",
@@ -76389,7 +76389,7 @@ var data = [
     "address": "162100 Block of Lucky Street",
     "year": "2012",
     "long": "-122.4133577",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77088703",
@@ -76473,7 +76473,7 @@ var data = [
     "address": "400 Block of PARIS Street",
     "year": "2012",
     "long": "-122.435055",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75982767",
@@ -76773,7 +76773,7 @@ var data = [
     "address": "3400 Block of Alemany Boulevard",
     "year": "2012",
     "long": "-122.4630372",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76237407",
@@ -76857,7 +76857,7 @@ var data = [
     "address": "2000 Block of Judah Street",
     "year": "2012",
     "long": "-122.4839635",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78124942",
@@ -77085,7 +77085,7 @@ var data = [
     "address": "2700 Block of 21st Street",
     "year": "2012",
     "long": "-122.409125",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75767781",
@@ -77097,7 +77097,7 @@ var data = [
     "address": "2700 Block of 21st Street",
     "year": "2012",
     "long": "-122.409125",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75767781",
@@ -77109,7 +77109,7 @@ var data = [
     "address": "2700 Block of 21st Street",
     "year": "2012",
     "long": "-122.409125",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75621451",
@@ -77133,7 +77133,7 @@ var data = [
     "address": "2700 Block of 21st Street",
     "year": "2012",
     "long": "-122.409125",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74724289",
@@ -77157,7 +77157,7 @@ var data = [
     "address": "2700 Block of 21st Street",
     "year": "2012",
     "long": "-122.409125",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73807405",
@@ -77313,7 +77313,7 @@ var data = [
     "address": "300 Block of Monterey Boulevard",
     "year": "2012",
     "long": "-122.4431531",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76405723",
@@ -77565,7 +77565,7 @@ var data = [
     "address": "700 Block of Valencia Street",
     "year": "2012",
     "long": "-122.4215708",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76097147",
@@ -77601,7 +77601,7 @@ var data = [
     "address": "700 Block of Valencia Street",
     "year": "2012",
     "long": "-122.4215708",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.8008988",
@@ -78669,7 +78669,7 @@ var data = [
     "address": "2600 Block of 21st Street",
     "year": "2012",
     "long": "-122.4072823",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75778823",
@@ -78681,7 +78681,7 @@ var data = [
     "address": "2600 Block of 21st Street",
     "year": "2012",
     "long": "-122.4072823",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75330433",
@@ -78741,7 +78741,7 @@ var data = [
     "address": "2600 Block of 21st Street",
     "year": "2012",
     "long": "-122.4072823",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73992031",
@@ -78765,7 +78765,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74842736",
@@ -78777,7 +78777,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74842736",
@@ -78789,7 +78789,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.738122",
@@ -78897,7 +78897,7 @@ var data = [
     "address": "600 Block of Russia Avenue",
     "year": "2012",
     "long": "-122.4320207",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76565858",
@@ -78933,7 +78933,7 @@ var data = [
     "address": "600 Block of Russia Avenue",
     "year": "2012",
     "long": "-122.4320207",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79269702",
@@ -79389,7 +79389,7 @@ var data = [
     "address": "1100 Block of Green Street",
     "year": "2012",
     "long": "-122.4183555",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.767601",
@@ -79497,7 +79497,7 @@ var data = [
     "address": "1100 Block of Green Street",
     "year": "2012",
     "long": "-122.4183555",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.767601",
@@ -79593,7 +79593,7 @@ var data = [
     "address": "3500 Block of 21st Street",
     "year": "2012",
     "long": "-122.4262049",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75665077",
@@ -79605,7 +79605,7 @@ var data = [
     "address": "3500 Block of 21st Street",
     "year": "2012",
     "long": "-122.4262049",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80103988",
@@ -79701,7 +79701,7 @@ var data = [
     "address": "200 Block of Divisadero Street",
     "year": "2012",
     "long": "-122.4368353",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80254368",
@@ -79713,7 +79713,7 @@ var data = [
     "address": "3000 Block of Franklin Street",
     "year": "2012",
     "long": "-122.4264029",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75912102",
@@ -79749,7 +79749,7 @@ var data = [
     "address": "200 Block of Divisadero Street",
     "year": "2012",
     "long": "-122.4368353",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76142515",
@@ -79785,7 +79785,7 @@ var data = [
     "address": "200 Block of Divisadero Street",
     "year": "2012",
     "long": "-122.4368353",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7752685",
@@ -79965,7 +79965,7 @@ var data = [
     "address": "400 Block of Noe Street",
     "year": "2012",
     "long": "-122.4329014",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73531513",
@@ -80025,7 +80025,7 @@ var data = [
     "address": "400 Block of Noe Street",
     "year": "2012",
     "long": "-122.4329014",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79892056",
@@ -80985,7 +80985,7 @@ var data = [
     "address": "0 Block of Pearl Street",
     "year": "2012",
     "long": "-122.4237946",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7702249",
@@ -80997,7 +80997,7 @@ var data = [
     "address": "0 Block of Pearl Street",
     "year": "2012",
     "long": "-122.4237946",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79530656",
@@ -81021,7 +81021,7 @@ var data = [
     "address": "0 Block of Pearl Street",
     "year": "2012",
     "long": "-122.4237946",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7702249",
@@ -81033,7 +81033,7 @@ var data = [
     "address": "0 Block of Pearl Street",
     "year": "2012",
     "long": "-122.4237946",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7702249",
@@ -81045,7 +81045,7 @@ var data = [
     "address": "0 Block of Pearl Street",
     "year": "2012",
     "long": "-122.4237946",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7702249",
@@ -81057,7 +81057,7 @@ var data = [
     "address": "0 Block of Pearl Street",
     "year": "2012",
     "long": "-122.4237946",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75665077",
@@ -81069,7 +81069,7 @@ var data = [
     "address": "3500 Block of 21st Street",
     "year": "2012",
     "long": "-122.4262049",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72507649",
@@ -81153,7 +81153,7 @@ var data = [
     "address": "3500 Block of 21st Street",
     "year": "2012",
     "long": "-122.4262049",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7291631",
@@ -81177,7 +81177,7 @@ var data = [
     "address": "700 Block of 43rd Avenue",
     "year": "2012",
     "long": "-122.5036075",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7791756",
@@ -84945,7 +84945,7 @@ var data = [
     "address": "1300 Block of Franklin Street",
     "year": "2012",
     "long": "-122.4234243",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71326692",
@@ -85281,7 +85281,7 @@ var data = [
     "address": "500 Block of Grant Avenue",
     "year": "2012",
     "long": "-122.4057024",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76482397",
@@ -85305,7 +85305,7 @@ var data = [
     "address": "500 Block of Grant Avenue",
     "year": "2012",
     "long": "-122.4057024",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73526815",
@@ -86061,7 +86061,7 @@ var data = [
     "address": "2800 Block of Clay Street",
     "year": "2012",
     "long": "-122.4399816",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78116435",
@@ -86145,7 +86145,7 @@ var data = [
     "address": "2800 Block of Clay Street",
     "year": "2012",
     "long": "-122.4399816",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77922931",
@@ -86193,7 +86193,7 @@ var data = [
     "address": "2800 Block of Clay Street",
     "year": "2012",
     "long": "-122.4399816",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78116435",
@@ -86229,7 +86229,7 @@ var data = [
     "address": "2900 Block of Folsom Street",
     "year": "2012",
     "long": "-122.4137792",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75010755",
@@ -86241,7 +86241,7 @@ var data = [
     "address": "2900 Block of Folsom Street",
     "year": "2012",
     "long": "-122.4137792",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73402176",
@@ -86277,7 +86277,7 @@ var data = [
     "address": "2900 Block of Folsom Street",
     "year": "2012",
     "long": "-122.4137792",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78246101",
@@ -86325,7 +86325,7 @@ var data = [
     "address": "100 Block of Newman Street",
     "year": "2012",
     "long": "-122.4172742",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71557635",
@@ -86553,7 +86553,7 @@ var data = [
     "address": "0 Block of Rico Way",
     "year": "2012",
     "long": "-122.4393577",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73526815",
@@ -86817,7 +86817,7 @@ var data = [
     "address": "600 Block of 7th Avenue",
     "year": "2012",
     "long": "-122.4649414",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77652195",
@@ -86877,7 +86877,7 @@ var data = [
     "address": "600 Block of 7th Avenue",
     "year": "2012",
     "long": "-122.4649414",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80447756",
@@ -87525,7 +87525,7 @@ var data = [
     "address": "1400 Block of 38th Avenue",
     "year": "2012",
     "long": "-122.4973566",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80001539",
@@ -87645,7 +87645,7 @@ var data = [
     "address": "800 Block of 30th Avenue",
     "year": "2012",
     "long": "-122.4895406",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79670734",
@@ -87729,7 +87729,7 @@ var data = [
     "address": "0 Block of Pierce Street",
     "year": "2012",
     "long": "-122.4333831",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75796228",
@@ -87981,7 +87981,7 @@ var data = [
     "address": "100 Block of Masonic Avenue",
     "year": "2012",
     "long": "-122.4475641",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78059828",
@@ -87993,7 +87993,7 @@ var data = [
     "address": "100 Block of Masonic Avenue",
     "year": "2012",
     "long": "-122.4475641",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77252751",
@@ -88413,7 +88413,7 @@ var data = [
     "address": "1500 Block of Jackson Street",
     "year": "2012",
     "long": "-122.4205895",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "2117379.845",
@@ -88425,7 +88425,7 @@ var data = [
     "address": "1510 Jackson St",
     "year": "2012",
     "long": "6006758.367",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "2117379.845",
@@ -88437,7 +88437,7 @@ var data = [
     "address": "1510 Jackson St",
     "year": "2012",
     "long": "6006758.367",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79430312",
@@ -88449,7 +88449,7 @@ var data = [
     "address": "1500 Block of Jackson Street",
     "year": "2012",
     "long": "-122.4205895",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79430312",
@@ -88461,7 +88461,7 @@ var data = [
     "address": "1500 Block of Jackson Street",
     "year": "2012",
     "long": "-122.4205895",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79597198",
@@ -88497,7 +88497,7 @@ var data = [
     "address": "1500 Block of Jackson Street",
     "year": "2012",
     "long": "-122.4205895",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79430312",
@@ -88509,7 +88509,7 @@ var data = [
     "address": "1500 Block of Jackson Street",
     "year": "2012",
     "long": "-122.4205895",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79252154",
@@ -88533,7 +88533,7 @@ var data = [
     "address": "1500 Block of Jackson Street",
     "year": "2012",
     "long": "-122.4205895",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78822088",
@@ -89037,7 +89037,7 @@ var data = [
     "address": "800 Block of Shotwell Street",
     "year": "2012",
     "long": "-122.4154657",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.743945",
@@ -89097,7 +89097,7 @@ var data = [
     "address": "800 Block of Shotwell Street",
     "year": "2012",
     "long": "-122.4154657",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75482966",
@@ -89109,7 +89109,7 @@ var data = [
     "address": "800 Block of Shotwell Street",
     "year": "2012",
     "long": "-122.4154657",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71806386",
@@ -89277,7 +89277,7 @@ var data = [
     "address": "600 Block of Connecticut Street",
     "year": "2012",
     "long": "-122.3970571",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71954709",
@@ -89325,7 +89325,7 @@ var data = [
     "address": "0 Block of Rico Way",
     "year": "2012",
     "long": "-122.4393577",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78116435",
@@ -90909,7 +90909,7 @@ var data = [
     "address": "200 Block of Leland Avenue",
     "year": "2012",
     "long": "-122.4078187",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74928155",
@@ -90969,7 +90969,7 @@ var data = [
     "address": "1400 Block of Jefferson Street",
     "year": "2012",
     "long": "-122.4364194",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78248521",
@@ -91701,7 +91701,7 @@ var data = [
     "address": "3500 Block of 22nd Street",
     "year": "2012",
     "long": "-122.42719",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.72439905",
@@ -91857,7 +91857,7 @@ var data = [
     "address": "300 Block of Prentiss Street",
     "year": "2012",
     "long": "-122.4121274",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7796033",
@@ -91917,7 +91917,7 @@ var data = [
     "address": "1700 Block of Alabama Street",
     "year": "2012",
     "long": "-122.4103456",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78356548",
@@ -92241,7 +92241,7 @@ var data = [
     "address": "400 Block of Guerrero Street",
     "year": "2012",
     "long": "-122.4241483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76396861",
@@ -92253,7 +92253,7 @@ var data = [
     "address": "400 Block of Guerrero Street",
     "year": "2012",
     "long": "-122.4241483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77828084",
@@ -92265,7 +92265,7 @@ var data = [
     "address": "3000 Block of Anza Street",
     "year": "2012",
     "long": "-122.4808416",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75582178",
@@ -92289,7 +92289,7 @@ var data = [
     "address": "3000 Block of Anza Street",
     "year": "2012",
     "long": "-122.4808416",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71910674",
@@ -92313,7 +92313,7 @@ var data = [
     "address": "400 Block of Guerrero Street",
     "year": "2012",
     "long": "-122.4241483",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77828084",
@@ -92325,7 +92325,7 @@ var data = [
     "address": "3000 Block of Anza Street",
     "year": "2012",
     "long": "-122.4808416",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.742659",
@@ -92805,7 +92805,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74842736",
@@ -92817,7 +92817,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78812073",
@@ -92853,7 +92853,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80216358",
@@ -92901,7 +92901,7 @@ var data = [
     "address": "200 Block of Connecticut Street",
     "year": "2012",
     "long": "-122.3976229",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75013019",
@@ -92925,7 +92925,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75334189",
@@ -93009,7 +93009,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71408703",
@@ -93057,7 +93057,7 @@ var data = [
     "address": "3000 Block of Cesar Chavez Street",
     "year": "2012",
     "long": "-122.4100995",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78217187",
@@ -93405,7 +93405,7 @@ var data = [
     "address": "1100 Block of Castro Street",
     "year": "2012",
     "long": "-122.4342702",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75242119",
@@ -94065,7 +94065,7 @@ var data = [
     "address": "0 Block of Ford Street",
     "year": "2012",
     "long": "-122.431766",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76194224",
@@ -94077,7 +94077,7 @@ var data = [
     "address": "0 Block of Ford Street",
     "year": "2012",
     "long": "-122.431766",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7111261",
@@ -94353,7 +94353,7 @@ var data = [
     "address": "400 Block of Diamond Street",
     "year": "2012",
     "long": "-122.4366027",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79484383",
@@ -95145,7 +95145,7 @@ var data = [
     "address": "600 Block of Hyde Street",
     "year": "2011",
     "long": "-122.4166122",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78676899",
@@ -95157,7 +95157,7 @@ var data = [
     "address": "600 Block of Hyde Street",
     "year": "2011",
     "long": "-122.4166122",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71959974",
@@ -95181,7 +95181,7 @@ var data = [
     "address": "600 Block of Hyde Street",
     "year": "2011",
     "long": "-122.4166122",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78658886",
@@ -95229,7 +95229,7 @@ var data = [
     "address": "600 Block of Hyde Street",
     "year": "2011",
     "long": "-122.4166122",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7930997",
@@ -95253,7 +95253,7 @@ var data = [
     "address": "600 Block of Hyde Street",
     "year": "2011",
     "long": "-122.4166122",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.70875008",
@@ -95277,7 +95277,7 @@ var data = [
     "address": "600 Block of Hyde Street",
     "year": "2011",
     "long": "-122.4166122",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79802285",
@@ -95373,7 +95373,7 @@ var data = [
     "address": "0 Block of Highland Avenue",
     "year": "2011",
     "long": "-122.4247799",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76613182",
@@ -96117,7 +96117,7 @@ var data = [
     "address": "2100 Block of 24th Street",
     "year": "2011",
     "long": "-122.4010372",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75337361",
@@ -96129,7 +96129,7 @@ var data = [
     "address": "2100 Block of 24th Street",
     "year": "2011",
     "long": "-122.4010372",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75127486",
@@ -96153,7 +96153,7 @@ var data = [
     "address": "2100 Block of 24th Street",
     "year": "2011",
     "long": "-122.4010372",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78363413",
@@ -96297,7 +96297,7 @@ var data = [
     "address": "700 Block of 16th Avenue",
     "year": "2011",
     "long": "-122.4746876",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74381353",
@@ -97617,7 +97617,7 @@ var data = [
     "address": "600 Block of 25th Avenue",
     "year": "2011",
     "long": "-122.484597",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77955847",
@@ -97677,7 +97677,7 @@ var data = [
     "address": "400 Block of Waller Street",
     "year": "2011",
     "long": "-122.4310716",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75158862",
@@ -97701,7 +97701,7 @@ var data = [
     "address": "400 Block of Waller Street",
     "year": "2011",
     "long": "-122.4310716",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78318152",
@@ -97977,7 +97977,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79390192",
@@ -97989,7 +97989,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76431939",
@@ -98037,7 +98037,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79390192",
@@ -98049,7 +98049,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79390192",
@@ -98061,7 +98061,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75915929",
@@ -98277,7 +98277,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77388278",
@@ -98301,7 +98301,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79390192",
@@ -98313,7 +98313,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79390192",
@@ -98325,7 +98325,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79390192",
@@ -98337,7 +98337,7 @@ var data = [
     "address": "1700 Block of Larkin Street",
     "year": "2011",
     "long": "-122.4197343",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77388278",
@@ -98709,7 +98709,7 @@ var data = [
     "address": "100 Block of Peabody Street",
     "year": "2011",
     "long": "-122.4073084",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77231593",
@@ -99873,7 +99873,7 @@ var data = [
     "address": "700 Block of 16th Avenue",
     "year": "2011",
     "long": "-122.4746876",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78796492",
@@ -100197,7 +100197,7 @@ var data = [
     "address": "0 Block of Madrone Avenue",
     "year": "2011",
     "long": "-122.4671443",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.80558464",
@@ -100485,7 +100485,7 @@ var data = [
     "address": "800 Block of Carolina Street",
     "year": "2011",
     "long": "-122.3998455",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7472839",
@@ -100929,7 +100929,7 @@ var data = [
     "address": "2500 Block of Sutter Street",
     "year": "2011",
     "long": "-122.4423708",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75610497",
@@ -101781,7 +101781,7 @@ var data = [
     "address": "4500 Block of 20th Street",
     "year": "2011",
     "long": "-122.4385024",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75242119",
@@ -101937,7 +101937,7 @@ var data = [
     "address": "2300 Block of Bush Street",
     "year": "2011",
     "long": "-122.4359152",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77172931",
@@ -102333,7 +102333,7 @@ var data = [
     "address": "900 Block of Dolores Street",
     "year": "2011",
     "long": "-122.4252383",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78399097",
@@ -102357,7 +102357,7 @@ var data = [
     "address": "900 Block of Dolores Street",
     "year": "2011",
     "long": "-122.4252383",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75423785",
@@ -102369,7 +102369,7 @@ var data = [
     "address": "900 Block of Dolores Street",
     "year": "2011",
     "long": "-122.4252383",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73288231",
@@ -102417,7 +102417,7 @@ var data = [
     "address": "900 Block of Dolores Street",
     "year": "2011",
     "long": "-122.4252383",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75423785",
@@ -102429,7 +102429,7 @@ var data = [
     "address": "900 Block of Dolores Street",
     "year": "2011",
     "long": "-122.4252383",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.78937035",
@@ -102453,7 +102453,7 @@ var data = [
     "address": "900 Block of Dolores Street",
     "year": "2011",
     "long": "-122.4252383",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.73525037",
@@ -102477,7 +102477,7 @@ var data = [
     "address": "0 Block of Pixley Street",
     "year": "2011",
     "long": "-122.4332976",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71612294",
@@ -104733,7 +104733,7 @@ var data = [
     "address": "800 Block of Shotwell Street",
     "year": "2011",
     "long": "-122.4154657",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76083482",
@@ -104781,7 +104781,7 @@ var data = [
     "address": "800 Block of Shotwell Street",
     "year": "2011",
     "long": "-122.4154657",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75049224",
@@ -104805,7 +104805,7 @@ var data = [
     "address": "800 Block of Shotwell Street",
     "year": "2011",
     "long": "-122.4154657",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77497698",
@@ -105561,7 +105561,7 @@ var data = [
     "address": "600 Block of 19TH Avenue",
     "year": "2011",
     "long": "-122.4778976",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79931282",
@@ -106617,7 +106617,7 @@ var data = [
     "address": "500 Block of Capp Street",
     "year": "2011",
     "long": "-122.4179573",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79713928",
@@ -106641,7 +106641,7 @@ var data = [
     "address": "500 Block of Capp Street",
     "year": "2011",
     "long": "-122.4179573",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.75637765",
@@ -107529,7 +107529,7 @@ var data = [
     "address": "3400 Block of Kirkham Street",
     "year": "2011",
     "long": "-122.4977537",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79750611",
@@ -108129,7 +108129,7 @@ var data = [
     "address": "100 Block of Chenery Street",
     "year": "2011",
     "long": "-122.4256139",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.74101041",
@@ -108813,7 +108813,7 @@ var data = [
     "address": "0 Block of Gorham Street",
     "year": "2011",
     "long": "-122.4344766",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.71901187",
@@ -109245,7 +109245,7 @@ var data = [
     "address": "600 Block of Duncan Street",
     "year": "2011",
     "long": "-122.4352397",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.7451601",
@@ -109257,7 +109257,7 @@ var data = [
     "address": "1500 Block of Diamond Street",
     "year": "2011",
     "long": "-122.4356547",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79455665",
@@ -109365,7 +109365,7 @@ var data = [
     "address": "400 Block of Filbert Street",
     "year": "2011",
     "long": "-122.4076268",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77171901",
@@ -109545,7 +109545,7 @@ var data = [
     "address": "700 Block of Chestnut Street",
     "year": "2011",
     "long": "-122.415704",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.76587422",
@@ -109605,7 +109605,7 @@ var data = [
     "address": "3100 Block of Folsom Street",
     "year": "2011",
     "long": "-122.413551",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79388475",
@@ -109641,7 +109641,7 @@ var data = [
     "address": "3100 Block of Folsom Street",
     "year": "2011",
     "long": "-122.413551",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.79388475",
@@ -110061,7 +110061,7 @@ var data = [
     "address": "2700 Block of Union Street",
     "year": "2011",
     "long": "-122.4445969",
-    "reason": "Ellis Act Withdrawal"
+    "reason": "Ellis Act WithDrawal"
   },
   {
     "lat": "37.77710772",
@@ -111071,4 +111071,4 @@ var data = [
     "long": "-122.4313429",
     "reason": "Owner Move In"
   }
-];
+]
