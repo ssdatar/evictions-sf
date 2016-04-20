@@ -81,10 +81,10 @@ p.subhead {
 }*/
 
 .graph {
-	float: left;
-	width: 49%;
+	/*float: left;*/
+	/*width: 49%;*/
 	height: 400px;
-	display: inline-block;
+	/*display: inline-block;*/
 }
 
 #total-graph, #trend-graph {
@@ -94,14 +94,19 @@ p.subhead {
 	/*margin-top: 2em;*/
 }
 
-#total-graph {
-	float: left;
+h3.hd {
+	display: inline-block;
 }
 
-#trend-graph {
+
+/*#total-graph {
+	float: left;
+}*/
+
+/*#trend-graph {
 	float: right;
 }
-
+*/
 #total-num {
 	color: #750000;
 }
@@ -129,18 +134,34 @@ text.label {
 	font-size: 1.2em;
 }
 
-@media only screen and (max-width: 768px) {
-	.graph {
+@media only screen and (max-width: 950px) {
+	/*.graph {
 		clear: both;
 		width: 100%
+	}*/
+
+	h3.trend-hd {
+		text-align: left;
+		margin-top: 2em;
 	}
 }
 
 
 @media only screen and (max-width: 480px) {
+
+	/*.graph {
+		clear: both;
+		width: 100%
+	}*/
+
+	h3.trend-hd {
+		text-align: left;
+		margin-top: 2em;
+	}
+
 	#location-input {
 		width: 15vw;
-		height: 15vw;
+		height: 15vh;
 		margin-bottom: 1.2em;
 		margin-right: 1em;
 	}

@@ -29,14 +29,16 @@ $(document).ready(function() {
 
 			//If it is not in SF, don't plot
 			if (data.features[0].properties.county !== "San Francisco County") {
-				$('#user-error').show().delay(5000).fadeOut();
-				//console.log('Sorry, this location is not in SF');
+				$('#user-error').show().delay(3000).fadeOut();
+
 			} else {
+				$('#total-graph').empty();
 				var userCoordinates = data.features[0].geometry.coordinates;
 				var userLat = userCoordinates[1],
 					userLong = userCoordinates[0];
 
 				var neighborhood = getNeighborhood(userLat, userLong, eviction_data).neighborhood;
+				//console.log(neighborhood);
 
 				var evictionPts = pointsToPlot(userLat, userLong, neighborhood);
 				//console.log(evictionPts);
@@ -46,7 +48,7 @@ $(document).ready(function() {
 				//Get GeoJSON of all points within one-mile radius
 				var evictionGeoJson = toGeoJSON(pointsToPlot(userLat, userLong, neighborhood));
 				//console.log(evictionGeoJson);
-				
+
 				//Plot graphs
 				plotGraphs(neighborhood);
 
@@ -81,7 +83,8 @@ $(document).ready(function() {
 
 function drawMap(userLat, userLong, points) {
 	$('#map').show();
-	$('#user-error').val('');
+	$('#user-error').hide();
+	$('#location-input').val('');
 
 	if (map) { 
 		map.remove();
@@ -225,10 +228,19 @@ function plotGraphs(nbd) {
 		return d.neighborhood == nbd;
 	});
 
-	//console.log(graphPoints);
+	// Data to build overall chart for eviction trends
+	// in this particular neighborhood
 	var totalData = d3.nest()
 	    .key(function (d) {return d.reason; })
-	    .entries(data);
+	    .rollup(function (d) {
+	    		var result = {};
+	    	return d.map( function (el) {
+	    		return el.year;
+	    		})
+	    	})
+	    .entries(graphPoints);
+
+	    //console.log(totalData)
 	
 	totalData.sort(function (a, b) {
 		return b.values.length - a.values.length;
@@ -241,8 +253,25 @@ function plotGraphs(nbd) {
 	}
 
 	//console.log(top5)
-
+	
+	// Pass it to function to build the 
+	// overall trend chart
 	makeTotalChart(top5);
+
+	//Data to make time trends for top 5 evictions
+	makeTrendChart(top5);
+	
+	// d3.nest()
+	//     .key( function (d) { 
+	//     	d.values.forEach(function (v) {
+	//     		return v.year;
+	//     	})
+	//     })
+	//     .entries(top5)
+	    // .sort(function (a, b) {
+	    // 	return b.values.length - a.values.length;
+	    // })
+	 //console.log(trendData)
 }
 
 /*------- MAKE BAR CHART FOR OVERALL TREND ---*/
@@ -259,20 +288,19 @@ function makeTotalChart(inData) {
 	var max = inData[0].values.length;
 	var min = inData[inData.length - 1].values.length;
 
-	//Scale for x axis
+	//Scale for X coordinates
 	var xScale = d3.scale.linear()
 	.domain([0, max])
 	.range([0, width - innerPadding]);
 
-	console.log(max)
-	console.log(xScale(max));
-
+	// Scale for Y coordinates
 	var yScale = d3.scale.ordinal()
 	.domain(inData.map( function (d) {
 		return d.key;
 	}))
 	.rangeRoundBands([0, height - 20], .1);
 
+	// Declare axes
 	var xAxis = d3.svg.axis()
 	.scale(xScale)
 	.orient("bottom");
@@ -282,16 +310,18 @@ function makeTotalChart(inData) {
 	.orient("left")
 	.tickFormat(function (d) { return ''; }) //Don't show categories on Y axis
 
+	// Append svg
 	var svg = d3.select('#total-graph')
 	.append('svg')
 	.attr('width', '100%')
 	.attr('height', '100%')
-	.attr('viewBox','0 0 '+ width+ ' ' + height)
+	.attr('viewBox','0 0 '+ width + ' ' + height)
     .attr('preserveAspectRatio','xMinYMin')
 	.append('g')
 	// .attr("transform", "translate(" + Math.min(width,height) / 2 + "," + Math.min(width,height) / 2 + ")");
 	.attr('transform', 'translate(' + margin.left + ',0)')
 
+	//Call axes
 	svg.append('g')
 	.attr('class', 'x axis')
 	.attr("transform", "translate(0," + (height - 20) + ")")
@@ -303,12 +333,13 @@ function makeTotalChart(inData) {
 
 	var barG = svg.append('g');
 
-	//Append data
+	//Data joins
 	var barData = barG.selectAll("g")
 	.data(inData)
 	.enter()
 	.append('g');
 
+	// Bars
 	barData.append('rect')
 	.attr('class', 'bar')
 	.attr('x', xScale(0))
@@ -316,43 +347,81 @@ function makeTotalChart(inData) {
 	.attr('width', 0)
 	.transition()
 	.attr('width', function (d) { return xScale(d.values.length); })
-	.attr('height', yScale.rangeBand() - 10)
-
-	//console.log(barData);
+	.attr('height', yScale.rangeBand() - 10);
 
 	// Text for types of evictions
 	barData.append('text')
-	.attr('x', 0)
+	.attr('x', function (d) {
+		// If it's a small bar, put text outside it
+		if (xScale(d.values.length) < 130) {
+			return xScale(d.values.length) + 20;
+		} else {
+			return 0; // Let name be inside
+		}
+	})
 	.attr('y', function (d) { return yScale(d.key); })
 	.attr('class', 'label')
 	.text(function (d) { return d.key; })
-	.attr('dx', function (d, i) {
-		if (i > 2) {
-			return '9em';
-		} else {
-			return '1em';
-		}
-	})
+	.attr('dx', '1em')
 	.attr('dy', '2em')
-	.attr('fill', function (d, i) {
-		if (i > 2) {
-			return '#545454';
-		} else {
-			return 'white';
-		}
-	});
+	.attr('fill', '#545454');
 
-	// Numbers for bar
+	// Numbers at the end of the bar
 	barData.append('text')
-	.attr('x', function (d) { return xScale(d.values.length) - 15; })
+	.attr('x', function (d) {
+		return xScale(d.values.length); 
+	})
 	.attr('y', function (d) { return yScale(d.key); })
 	.attr('class', 'number')
 	.text(function (d) { return d.values.length; })
+	.attr('dx', '-.4em')
 	.attr('dy','2.4em')
 	.attr('text-anchor', 'end')
 	.attr('fill', 'white');
 	
 }
+
+function makeTrendChart (inData) {
+	var margin = {top: 10, right: 10, bottom: 10, left: 10};
+	var div = d3.select('#trend-graph').node().getBoundingClientRect();
+
+	var width = div.width - margin.left - margin.right,
+	    height = div.height - margin.top - margin.bottom,
+	    innerPadding = 40;
+
+	var temp = [];
+	var k, yearObj;	
+
+	for (var j in inData) {
+		k = inData[j].key;
+		yearObj = {'2011': 0,
+				  '2012': 0,
+				  '2013': 0,
+				  '2014': 0,
+				  '2015': 0}
+
+		if (!temp[k]) { temp[k] = yearObj;}
+	}
+
+
+	// for (var j=0; j < inData.length; j++) {
+	// 	k = inData[j].key;
+	// 	obj.k = ''
+	// 	temp[j] = obj;
+	// }
+
+	 // var wrangledData = inData.forEach(function (d) {
+	 // 	d.values.forEach( function (v)  {
+	 // 		if (!temp[d.key][v]) {
+	 // 			temp[d.key][v] = 1;
+	 // 		} else {
+	 // 			temp[d.key][v] += 1;
+	 // 		}
+	 // 	})
+	 // })
+	 console.log(temp)
+
+} 
 
 
 
