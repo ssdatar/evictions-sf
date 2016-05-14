@@ -1,89 +1,138 @@
 <html>
-    <head>
-        <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<head>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <!--Leaflet styles and script-->
-    	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-    	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+		<!--Leaflet styles and script-->
+		<link rel="stylesheet" href="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		<script src="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 
-        <!--Bootstrap stylesheet-->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+		<!--Bootstrap stylesheet-->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
 
-        <!--Main stylesheet-->
-        <link rel="stylesheet" href="styles.css" />
+		<!--Main stylesheet-->
+		<link rel="stylesheet" href="styles.css" />
 
-         <!--Google font Lato-->
-        <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-    	
+		 <!--Google font Lato-->
+		<link href='//fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		
 		<!--jQuery and Google Street View API scripts-->
-    	<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-    	<!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRUl9VBYskltbiLUIKdyHB8n9n5m9Jzcg"></script--> 
+		<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+		<!--script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRUl9VBYskltbiLUIKdyHB8n9n5m9Jzcg"></script--> 
 
-        <script src="https://d3js.org/d3.v3.min.js"></script>  	
-    </head>
+		<script src="https://d3js.org/d3.v3.min.js"></script>  	
+	</head>
 
-    <body>
-        <div class="container">
-            <div class="page-header">
-                <h1 id="title">How many evictions near you?</h1>
-            </div>            
-            <div class="row">
-            	<div class="wrapper">                    
-                  <article class="text">
-                    <h4> Enter your street address, location, or landmark in San Francisco and see how many people have been served eviction notices near you. You can
-                    click on the dot to see a Street View of the building.</h4>
+	<body>
+		<div class="container">
+			<div class="page-header">
+				<h1 id="title">How many evictions near you?</h1>
+			</div>            
+			<div class="row">
+				<div class="wrapper">                    
+				  <article class="text">
+						<h4> Choose a neighborhood in San Francisco and see how many people have been served eviction notices near you.</h4>
+				  
+						<form id="user-location">
+							<select name="nbd" class="form-control" id="nbd">
+								<option value="Bayview Hunters Point">Bayview Hunters Point</option>
+								<option value="Bernal Heights">Bernal Heights</option>
+								<option value="Castro/Upper Market">Castro/Upper Market</option>
+								<option value="Chinatown">Chinatown</option>
+								<option value="Excelsior">Excelsior</option>
+								<option value="Financial District/South Beach">Financial District/South Beach</option>
+								<option value="Glen Park">Glen Park</option>
+								<option value="Golden Gate Park">Golden Gate Park</option>
+								<option value="Haight Ashbury">Haight Ashbury</option>
+								<option value="Hayes Valley">Hayes Valley</option>
+								<option value="Inner Richmond">Inner Richmond</option>
+								<option value="Inner Sunset">Inner Sunset</option>
+								<option value="Japantown">Japantown</option>
+								<option value="Lakeshore">Lakeshore</option>
+								<option value="Lincoln Park">Lincoln Park</option>
+								<option value="Lone Mountain/USF">Lone Mountain/USF</option>
+								<option value="Marina">Marina</option>
+								<option value="McLaren Park">McLaren Park</option>
+								<option value="Mission">Mission</option>
+								<option value="Mission Bay">Mission Bay</option>
+								<option value="Nob Hill">Nob Hill</option>
+								<option value="Noe Valley">Noe Valley</option>
+								<option value="North Beach">North Beach</option>
+								<option value="Oceanview/Merced/Ingleside">Oceanview/Merced/Ingleside</option>
+								<option value="Outer Mission">Outer Mission</option>
+								<option value="Outer Richmond">Outer Richmond</option>
+								<option value="Pacific Heights">Pacific Heights</option>
+								<option value="Portola">Portola</option>
+								<option value="Potrero Hill">Potrero Hill</option>
+								<option value="Presidio Heights">Presidio Heights</option>
+								<option value="Russian Hill">Russian Hill</option>
+								<option value="Seacliff">Seacliff</option>
+								<option value="South of Market">South of Market</option>
+								<option value="Sunset/Parkside">Sunset/Parkside</option>
+								<option value="Tenderloin">Tenderloin</option>
+								<option value="Twin Peaks">Twin Peaks</option>
+								<option value="Visitacion Valley">Visitacion Valley</option>
+								<option value="West of Twin Peaks">West of Twin Peaks</option>
+								<option value="Western Addition">Western Addition</option>
+						  </select>
+						  
+						  <input type="submit" value="Show me" />
+						</form>
+				  </article>
+				</div>
+			</div>
 
-                    <h4> E.g Runway Incubator, Bernal Heights, 1355 Market Street, San Francisco </h4>
-                  
-                    <form id="user-location">
-                        <input type="text" id="location-input" placeholder="Enter a location in San Francisco"/>
-                        <input type="submit" value="Show me" id="button">
-                    </form>
-                    <div class="error-message">
-                        <p class="message" id="user-error">Sorry, this address is either not in San Francisco or you can be more specific</p>
-                    </div>
+			<!-- Panel showing big numbers -->
+			<div class="row">
+				<div class="col-md-4 col-sm-12">
+					<div id="stats-panel">
+						<h1 id="nbd-name"></h1>
+						
+						<div class="summary" id="total">
+						  <p class="big" id="total-num"></p>
+						  <p class="subhead" id="total-sub"></p> 
+						</div>
 
-                    <div class="eviction-message">
-                        <h3 class="eviction-message" id="eviction-count"></h3>
-                    </div>
-                  </article>
-                </div>
-            </div>
+						<div id="highest" class="summary">
+							<p class="big" id="highest-num"></p> 
+							<p class="subhead" id="highest-sub"></p>                       
+						</div>
 
-        	<div class="row">
-                <div id="stats-panel">
-                    <h1 id="nbd"></h1>
-                    <div class="summary" id="total">
-                      <p class="big" id="total-num"></p>
-                      <p class="subhead" id="total-sub"></p> 
-                    </div>
+						<div id="second" class="summary">
+							<p class="big" id="second-num"></p> 
+							<p class="subhead" id="second-sub"></p>                       
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-8">
+					<div id="map"></div>
+				</div>
+			</div>
 
-                    <div id="highest" class="summary">
-                        <p class="big" id="highest-num"></p> 
-                        <p class="subhead" id="highest-sub"></p>                       
-                    </div>
-                </div>
-                <div id="map"></div>
-            </div>
+			<!-- </panel> -->
 
-            <div class="row graph-wrapper clearfix">
-                <!-- <div class="total-wrapper"> -->
-                    <div class="hd">
-                        <h3 class="hd">Total evictions since 2011</h3>
-                    </div>
-                    <div id="total-graph" class="graph col-md-6"></div>
-                <!-- </div> -->
-                <!-- <div class="trend-wrapper"> -->
-                    <div class="hd">
-                        <h3 class="hd">Total evictions since 2011</h3>
-                    </div>                
-                    <div id="trend-graph" class="graph col-md-6"></div>
-                <!-- </div> -->
-            </div>
+			
+			<!-- Graphs showing eviction trends -->
+			<div class="graph-wrapper">
+				<div class="col-md-6">
+					<div class="hd">
+							<h3 class="hd">Total eviction notices since 2011</h3>
+						</div>
+						<div id="total-graph"></div>
+				</div>
 
-            <script src="data.js"></script>
-        	<script src="script.js"></script>
-        </div>
-    </body>
+				<div class="col-md-6">
+					<div class="hd">
+							<h3 class="hd">Reasons for eviction notices</h3>
+					</div>                
+					<div id="trend-graph" class="graph col-md-6"></div>			
+				</div>
+			</div>
+			<!-- </Graph> -->
+			</div>
+
+			<script src="data/data.js"></script>
+			<script src="script.js"></script>		
+	</body>
 </html>

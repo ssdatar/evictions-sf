@@ -1,12 +1,13 @@
 * {
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+	 -moz-box-sizing: border-box;
+		  box-sizing: border-box;
 }
 
 body {
 	font-family: 'Lato', helvetica, sans-serif;
 	margin: 40px auto;
+	background-color: #f1f1f1;
 }
 
 
@@ -15,7 +16,7 @@ body {
 }
 
 .text {
-	padding: 3em;
+	padding: 2em;
 	max-width: 970px;
 	margin: 0 auto;
 }
@@ -26,12 +27,12 @@ input {
 }
 
 #stats-panel {
-	width: 35%;
-	display: inline-block;
+	width: 100%;
+	/*display: inline-block;*/
 }
 
 div.summary {
-	margin-bottom: 4em;
+	margin-bottom: 3em;
 }
 
 p.big {
@@ -47,14 +48,23 @@ p.subhead {
 
 #map {
 	height: 100%;
-	width: 60%;
+	width: 100%;
 	position: relative;
-	float: right;
 }
 
 #user-location {
-	padding-top: 10vh;
+	padding-top: 2vh;
 	text-align: center;
+}
+
+#nbd {
+	width: 300px;
+	display: inline-block;
+	text-align: center;	
+}
+
+div.hd {
+	margin-top: 2em;
 }
 
 .error-message, h4 {
@@ -66,52 +76,38 @@ p.subhead {
 	padding: 0.2em;
 }
 
-
 #location-input {
 	width: 30vw;
 	min-width: 350px;
 }
 
-/*#graph-wrapper {
-	position: relative;
-	width: 80%;
-	height: 100%;
-	overflow: hidden;
-	margin-top: 1em;
-}*/
-
-.graph {
-	/*float: left;*/
-	/*width: 49%;*/
-	height: 400px;
-	/*display: inline-block;*/
+.graph-wrapper {
+	margin-top: 2em;
 }
 
 #total-graph, #trend-graph {
-	/*display: inline-block;*/
-	border: 1px solid #d3d3d3;
-	/*position: absolute;*/
-	/*margin-top: 2em;*/
+	height: 100%;
+	width: 100%;
+	margin-top: 2em;
 }
 
 h3.hd {
 	display: inline-block;
 }
 
-
-/*#total-graph {
-	float: left;
-}*/
-
-/*#trend-graph {
-	float: right;
+path.breach {
+	fill: darkred;
 }
-*/
+
+path.nuisance {
+	fill: green;
+}
+
 #total-num {
 	color: #750000;
 }
 
-#highest-num {
+#highest-num, #second-num {
 	color: cadetblue;
 }
 
@@ -127,22 +123,40 @@ h3.hd {
 }
 
 .bar {
-	fill: #ff6666;
+	fill: darkred;
 }
 
 text.label {
 	font-size: 1.2em;
 }
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 992px) {
 	/*.graph {
 		clear: both;
 		width: 100%
 	}*/
 
+	div.summary {
+		display: inline-block;
+		width: 33%;
+		text-align: center;
+	}
+
+	p.big {
+		font-size: 3em;
+	}
+
+	p.subhead{
+		font-size: 1.1em;
+	}
+
 	h3.trend-hd {
 		text-align: left;
 		margin-top: 2em;
+	}
+
+	#nbd-name {
+		font-size: 2em;
 	}
 }
 
