@@ -1,0 +1,198 @@
+* {
+  -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+      box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', helvetica, sans-serif;
+  margin: 40px auto;
+  /*background-color: #f1f1f1;*/
+}
+
+text {
+  font-family: 'Lato', helvetica, sans-serif; 
+}
+
+
+#title {
+  text-align: center;
+  color: darkred;
+  font-size: 4.0em;
+}
+
+.text {
+  padding: 2em;
+  max-width: 970px;
+  margin: 0 auto;
+}
+
+input {
+  display: inline-block;
+  padding: .6em;
+}
+
+#stats-panel {
+  width: 100%;
+  /*display: inline-block;*/
+}
+
+div.summary {
+  margin-bottom: 3em;
+}
+
+p.big {
+  font-size: 5em;
+  font-weight: 700;
+  line-height: 0.8em;
+  color: #333333;
+}
+
+p.subhead {
+  font-size: 1.5em;
+}
+
+p.intro {
+  font-size: 1.5em;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+#user-location {
+  padding-top: 2vh;
+  text-align: center;
+}
+
+#nbd {
+  width: 300px;
+  display: inline-block;
+  text-align: center; 
+}
+
+div.hd {
+  margin-top: 2em;
+}
+
+.error-message, h4 {
+  text-align: center;
+}
+
+.eviction-message {
+  text-align: center;
+  padding: 0.2em;
+}
+
+#location-input {
+  width: 30vw;
+  min-width: 350px;
+}
+
+.graph-wrapper {
+  margin-top: 2em;
+}
+
+#total-graph, #trend-graph {
+  /*height: 100%;
+  width: 100%;*/
+  margin-top: 2em;
+}
+
+h3.hd {
+  display: inline-block;
+}
+
+path.breach {
+  fill: darkred;
+}
+
+path.nuisance {
+  fill: green;
+}
+
+#total-num {
+  color: #750000;
+}
+
+#highest-num, #second-num {
+  color: cadetblue;
+}
+
+#nbd {
+  margin: 0 0 0.8em 0;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: darkred;
+}
+
+text.label {
+  font-size: 1.2em;
+}
+
+@media only screen and (max-width: 992px) {
+  /*.graph {
+    clear: both;
+    width: 100%
+  }*/
+
+  div.summary {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+  }
+
+  p.big {
+    font-size: 3em;
+  }
+
+  p.subhead{
+    font-size: 1.1em;
+  }
+
+  h3.trend-hd {
+    text-align: left;
+    margin-top: 2em;
+  }
+
+  #nbd-name {
+    font-size: 2em;
+  }
+}
+
+
+@media only screen and (max-width: 480px) {
+
+  /*.graph {
+    clear: both;
+    width: 100%
+  }*/
+
+  h3.trend-hd {
+    text-align: left;
+    margin-top: 2em;
+  }
+
+  #location-input {
+    width: 15vw;
+    height: 15vh;
+    margin-bottom: 1.2em;
+    margin-right: 1em;
+  }
+
+  #button {
+    width: 60vw;
+    height: 10vh;
+  }
+}
+
