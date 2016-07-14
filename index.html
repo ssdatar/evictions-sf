@@ -4,7 +4,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta property="og:title" content="Eviction notices in San Francisco" />
     <meta property="og:url" content="http://ssdatar.github.io/evictions-sf/" />
-    <!-- <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" /> -->
+    <meta property="og:image" content="https://raw.githubusercontent.com/ssdatar/evictions-sf/master/assets/img/ev.png" />
+    <meta property="og:description" content="Tracking evictions in San Francisco, neighborhood by neighborhood." />
 
     <!--Leaflet styles and script-->
     <link rel="stylesheet" href="./assets/css/leaflet.css" />
@@ -36,9 +37,7 @@
       <div class="row">
         <div class="wrapper">                    
           <article class="text">
-            <p class="intro">This application lets you explore data on eviction notices served to tenants in San Francisco from 2011 to 2015. The data comes from the <a href="https://data.sfgov.org/Housing-and-Buildings/Eviction-Notices/5cei-gny5">San Francisco Rent Board</a>. Note that these are eviction notices filed and not the actual evictions.</p>
-
-            <p class="intro">Choose a neighborhood and see how many people have been served eviction notices near you.</p>
+            <p class="intro">Explore data on eviction notices served to tenants in San Francisco from 2011 to 2015. Choose a neighborhood to know how many people have been served eviction notices near you. Note that these are eviction notices filed and not the actual evictions.</p>
           
             <form id="user-location">
               <select name="nbd" class="form-control" id="nbd">
@@ -137,6 +136,15 @@
         </div>
       </div>
       <!-- </Graph> -->
+
+    </div>
+
+    <div class="text">
+      <p>  
+        The data comes from the <a href="https://data.sfgov.org/Housing-and-Buildings/Eviction-Notices/5cei-gny5">San Francisco Rent Board</a>.
+
+        Note: Neighborhoods have been shown as recorded by the San Francisco Rent Board. Locations are block-level and, hence, are not exact.
+      </p>      
     </div>
 
     <script src="./assets/data/data.js"></script>
